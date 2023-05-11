@@ -61,7 +61,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoverykids%2F</page></regex>
-<thumbnail>https://i.postimg.cc/mrYqm04p/discovery-kids.png</thumbnail>
+<thumbnail>https://i.postimg.cc/q7dLmwp1/discovery-kids.png</thumbnail>
 <fanart></fanart>
 <info>Discovery Kids é um canal de televisão por assinatura focado para o público pré-escolar. O canal está presente na América Latina, Austrália, Brasil, Sul da Ásia e um canal conjunto para as regiões do Oriente Médio e Norte da África.</info>
 </item>
