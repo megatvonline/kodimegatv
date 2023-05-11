@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[B][COLOR white]VIVA[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fviva%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/viva.png</thumbnail>
+<fanart></fanart>
+<info>Viva é um canal de televisão por assinatura brasileiro, que faz parte da programadora Globosat. Foi inaugurado no dia 18 de maio de 2010 e está presente nas operadoras de televisão a cabo e satélite NET, TV Alphaville, Sky, Claro TV, Vivo TV, Oi TV e Algar TV.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]MULTISHOW[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fmultishow%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/multishow.png</thumbnail>
+<fanart></fanart>
+<info>Multishow é um canal de televisão por assinatura da programadora de televisão brasileira Globosat. No ar desde 19 de outubro de 1991, tem uma ampla gama de estilos na programação na área do entretenimento.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]GNT[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fgnt%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/gnt.png</thumbnail>
+<fanart></fanart>
+<info>GNT é um canal de televisão por assinatura brasileiro. Foi criada em 19 de outubro de 1991 com o nome de Globosat News Television, um canal que transmitia notícias.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]MTV[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fmtvbrasil%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/mtv.png</thumbnail>
+<fanart></fanart>
+<info>MTV Brasil foi uma rede de televisão brasileira, pertencente ao Grupo Abril e dedicada ao público jovem. Nasceu no dia 20 de outubro de 1990 como a primeira rede de televisão segmentada a ser transmitida no sinal aberto, sendo a versão nacional da MTV.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]BIS[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fbis%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/canal-bis.png</thumbnail>
+<fanart></fanart>
+<info>BIS é o primeiro canal de televisão por assinatura com sua programação 100% dedicada à música, antiga faixa do canal GloboSAT HD, que é formado por um mix de 24 horas de shows, documentários, biografias e séries musicais.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]E! ENTERTAINMENT TELEVISION[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Feentertainment%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/canal-e.png</thumbnail>
+<fanart></fanart>
+<info>E! Entertainment Television (ou simplesmente E!) é um canal de televisão por assinatura de variedades, disponível nos Estados Unidos, Reino Unido, Irlanda, Itália, Austrália, Nova Zelândia, África do Sul, França, Tailândia, Indonésia, Malásia, Polônia, Grécia, Turquia, Sérvia, Montenegro, Eslovênia, Sri Lanka, Canadá, Brasil, Portugal, Albânia e Israel. Na América Latina e no Brasil, é distribuído pela HBO. Desde novembro de 2006, o canal é detido pela Comcast.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]LIFETIME[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Flifetime%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/lifetime.png</thumbnail>
+<fanart></fanart>
+<info>Lifetime é um canal pago, estado-unidense de entretenimento, que faz parte do Lifetime Entertainment Services, uma subsidiária da A&amp;E Networks, que é de propriedade conjunta da Hearst Corporation, The Walt Disney Company e NBC Universal.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]FOOD NETWORK[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ffoodnetwork%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/food-network.png</thumbnail>
+<fanart></fanart>
+<info>Food Network é um canal de televisão por assinatura dedicado a quem ama a arte da gastronomia. Desde a elaboração de diversos pratos, competições gastronômicas e lugares que levam na comida a cultura de diferentes países, a audiência é convidada a assistir aos mais variados programas.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]ARTE 1[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Farte1%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/arte-1.png</thumbnail>
+<fanart></fanart>
+<info>Arte 1 é um canal de televisão por assinatura brasileiro operado pelo Grupo Bandeirantes de Comunicação e Grupo Nota do Tempo de Mídia e Produção. Foi inaugurado no dia 1 de dezembro de 2012 e exibe conteúdos sobre arte, música e documentários e filmes.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]CURTA![/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcanalcurta%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/canal-curta.png</thumbnail>
+<fanart></fanart>
+<info>O Curta! é um canal de televisão por assinatura brasileiro fundado em 1 de novembro de 2012. É um canal independente, dedicado às artes, cultura e humanidades. Documentários em curta, média e longa-metragem predominam em sua programação, que traz também séries e cinema de ficção. O Curta!</info>
+</item>
+
+<item>
+<title>[B][COLOR white]CANAL OFF[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcanaloff%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/canal-off.png</thumbnail>
+<fanart></fanart>
+<info>Canal OFF é um canal de TV por assinatura brasileiro lançado pela Globosat, tendo como público alvo jovens e adultos. Estreou no dia 8 de dezembro de 2011 sendo que só é exibido em HDTV e Widescreen, estando disponível na Claro TV, NET, Sky, Vivo TV, Roma Cabo.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]FISH TV[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ffishtv%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/fish-tv.png</thumbnail>
+<fanart></fanart>
+<info>Fish TV é um canal de televisão por assinatura brasileiro dedicado a pesca esportiva. O canal foi lançado em 29 de junho de 2012 em toda América Latina. A programação do canal é 100% sobre a pesca.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]WOOHOO[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fwoohoo%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/woohoo.png</thumbnail>
+<fanart></fanart>
+<info>Woohoo é um canal de TV por assinatura brasileiro, voltado para os esportes de ação, música e comportamento jovem. O canal esta disponível em várias operadoras de TV por assinatura brasileiras. Em Portugal foi lançado no início de 2013 em exclusivo na ZON.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]MODO VIAGEM[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fmodoviagem%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/modo-viagem.png</thumbnail>
+<fanart></fanart>
+<info>Modo Viagem é um canal de televisão por assinatura brasileiro lançado em 2 de dezembro de 2007 que transmite sinal em alta definição, atualmente seguindo o conceito de superstation. Reúne vários programas do gênero de viagens e bem-estar.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]COMEDY CENTRAL[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcomedycentral%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/comedy-central.png</thumbnail>
+<fanart></fanart>
+<info>Comedy Central é um canal pago de humor dos Estados Unidos famoso pelos seus programas de comédia. Pertence a Americana Viacom Media Networks. Entre os destaques de sua programação está a animação South Park célebre pelo seu humor politicamente incorreto.</info>
+</item>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[B][COLOR white]CARTOON NETWORK[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcartoonnetwork%2F</page></regex>
+<thumbnail>https://i.postimg.cc/63qKkjTV/cartoon-network.png</thumbnail>
+<fanart></fanart>
+<info>Cartoon Network é um canal norte-americano de televisão por assinatura de rede de propriedade da Warner Bros. Global Kids &amp; Young Adults, que vai ao ar principalmente com programação animada.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOOB[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fgloob%2F</page></regex>
+<thumbnail>https://i.postimg.cc/SKB0PSF4/gloob.png</thumbnail>
+<fanart></fanart>
+<info>Gloob é um canal de televisão por assinatura brasileiro que pertence a Globosat lançado no dia 15 de junho de 2012 direcionado ao público infantil. Seu nome é um anagrama da palavra Globo, invertendo a letra "O" antes do "B". Também transmite sua programação em high definition em versão simulcast.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOOBINHO[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fgloobinho%2F</page></regex>
+<thumbnail>https://i.postimg.cc/tCY5shnr/gloobinho.png</thumbnail>
+<fanart></fanart>
+<info>Gloobinho é um canal educacional brasileiro canal de TV paga pertencente a Globosat. Baseado em Gloob, o canal é destinado a crianças de 2 a 5 anos.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]CARTOONITO[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcartoonito%2F</page></regex>
+<thumbnail>https://i.postimg.cc/4yBwcPXd/cartoonito.png</thumbnail>
+<fanart></fanart>
+<info>Cartoonito é um canal de televisão digital, cabo e satélite americana que é de propriedade da subsidiária Warner Bros. Global Kids &amp; Young Adults de propriedade da Warner Bros. Discovery.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TOONCAST[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftooncast%2F</page></regex>
+<thumbnail>https://i.postimg.cc/8zBcm0qt/tooncast.png</thumbnail>
+<fanart></fanart>
+<info>Tooncast é um canal infantil de desenhos clássicos fundado pela Warner Bros. Entertainment e pela Turner International que é também a programadora do Cartoon Network, do Boomerang, da TNT, do TNT Séries, do Space, da CNN International, da CNN en Español, do TBS, do TCM, do I.Sat e do Tru TV.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY KIDS[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoverykids%2F</page></regex>
+<thumbnail>https://i.postimg.cc/mrYqm04p/discovery-kids.png</thumbnail>
+<fanart></fanart>
+<info>Discovery Kids é um canal de televisão por assinatura focado para o público pré-escolar. O canal está presente na América Latina, Austrália, Brasil, Sul da Ásia e um canal conjunto para as regiões do Oriente Médio e Norte da África.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY CHANNEL[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdisneychannel%2F</page></regex>
+<thumbnail>https://i.postimg.cc/xT1msHvK/disney-channel.png</thumbnail>
+<fanart></fanart>
+<info>Disney Channel é um canal de televisão norte-americano especializado em programação infanto-juvenil, através das suas séries originais e filmes.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]NICKELODEON[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fnickelodeon%2F</page></regex>
+<thumbnail>https://i.postimg.cc/85FWbfq1/nick.png</thumbnail>
+<fanart></fanart>
+<info>Nickelodeon, geralmente abreviada como "Nick", é uma empresa de entretenimento juvenil. Construiu um negócio global e diversificado, colocando crianças e adolescentes em primeiro lugar em tudo o que faz.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]NICK Jr.[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fnickjr%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/nick-jr.png</thumbnail>
+<fanart></fanart>
+<info>Nick Jr. Brasil é um canal de televisão paga com 24 horas dedicado às crianças em fase pré-escolar que promove o desenvolvimento infantil ao usar a filosofia “brincar aprendendo”.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]ZOOMOO KIDS[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fzoomookids%2F</page></regex>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/zoomoo-kids.png</thumbnail>
+<fanart></fanart>
+<info>Zoomoo Kids é um canal infantil fundado em 11 de setembro de 2013, pertencente as empresas Blue Ant Media, do Canadá, da Beach House Pictures, de Cingapura, e da Natural History New Zealand, da Nova Zelândia. Sua transmissão foi iniciada na SKY, canal 103. É um canal infantil de televisão por assinatura.</info>
+</item>
+
