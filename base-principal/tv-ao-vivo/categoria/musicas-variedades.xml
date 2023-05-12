@@ -89,6 +89,17 @@
 </item>
 
 <item>
+<title>[B][COLOR white]TLC DISCOVERY[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftlc%2F</page></regex>
+<thumbnail>https://i.postimg.cc/9QmJ5PnJ/tlc-discovery.png</thumbnail>
+<fanart></fanart>
+<info>TLC Discovery é um canal de televisão que transmite para vários países da América Latina. Era originalmente conhecido como Discovery Travel &amp; Adventure Channel e apresentava mais programas relacionados a aventuras.</info>
+</item>
+
+<item>
 <title>[B][COLOR white]ARTE 1[/COLOR][/B]</title>
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
