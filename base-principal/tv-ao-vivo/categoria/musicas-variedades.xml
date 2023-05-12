@@ -149,7 +149,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fwoohoo%2F</page></regex>
-<thumbnail>https://i.postimg.cc/qqczp35G/woohoo.png</thumbnail>
+<thumbnail>https://i.postimg.cc/ryvsZWJb/woohoo.png</thumbnail>
 <fanart></fanart>
 <info>Woohoo é um canal de TV por assinatura brasileiro, voltado para os esportes de ação, música e comportamento jovem. O canal esta disponível em várias operadoras de TV por assinatura brasileiras. Em Portugal foi lançado no início de 2013 em exclusivo na ZON.</info>
 </item>
