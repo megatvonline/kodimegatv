@@ -485,6 +485,23 @@
 <info></info>
 </item>
 
+
+<item>
+<title>[B][COLOR white]URBAN TV[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]URBAN TV[/COLOR][/B]&amp;url=http://200.194.238.229:8383/live/urbantv/playlist.m3u8</link>
+<thumbnail>https://i.postimg.cc/m2HN5fwC/urban-tv.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]CLUBINHO FUN[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]CLUBINHO FUN[/COLOR][/B]&amp;url=https://cdn2.connectbr.com.br/Clubinho/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://i.postimg.cc/PrTY2pCs/clubinho-fun.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
 <item>
 <title>[B][COLOR blue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR] [COLOR blue]|||[/COLOR][/B]</title>
 <link>here</link>
@@ -576,6 +593,38 @@
 <title>[B][COLOR white]BABY TV[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]BABY TV[/COLOR][/B]&amp;url=https://ipzeruela.shop/BABY-TV/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
 <thumbnail>https://i.postimg.cc/V6Hrrs63/baby-tv.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]URBAN KIDS[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]URBAN KIDS[/COLOR][/B]&amp;url=http://200.194.238.229:8383/live/urbankids/playlist.m3u8</link>
+<thumbnail>https://i.postimg.cc/CMqpm5WN/urban-kids.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]TOON GOGGLES BRASIL[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]TOON GOGGLES BRASIL[/COLOR][/B]&amp;url=https://stream.ads.ottera.tv/playlist.m3u8?network_id=274</link>
+<thumbnail>https://i.postimg.cc/s2H19xtz/toon-goggles-brasil.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]TV KIDS MAIS[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]TV KIDS MAIS[/COLOR][/B]&amp;url=https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8</link>
+<thumbnail>https://i.postimg.cc/5Nsgzqnk/tv-kids-mais.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]FRONTEIRA KIDS[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]FRONTEIRA KIDS[/COLOR][/B]&amp;url=https://srv5.zcast.com.br/fronteirakids/fronteirakids/playlist.m3u8</link>
+<thumbnail>https://i.postimg.cc/vBjMD6C1/fronteira-kids.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -679,6 +728,14 @@
 <title>[B][COLOR white]HISTORY 2[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]HISTORY 2[/COLOR][/B]&amp;url=https://ipzeruela.shop/History2/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
 <thumbnail>https://i.postimg.cc/rm584tLR/history-2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]URBAN DOCS[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]URBAN DOCS[/COLOR][/B]&amp;url=http://200.194.238.229:8383/live/urbandocs/playlist.m3u8</link>
+<thumbnail>https://i.postimg.cc/Xq88Qw3q/urban-docs.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
