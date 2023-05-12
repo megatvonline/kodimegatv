@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[B][COLOR white]GLOBO RJ[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fgloborj%2F</page></regex>
+<thumbnail>https://i.postimg.cc/prXrbbrL/rede-globo.png</thumbnail>
+<fanart></fanart>
+<info>Rede Globo é uma rede de televisão comercial aberta brasileira com sede na cidade do Rio de Janeiro. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO SP[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fglobosp%2F</page></regex>
+<thumbnail>https://i.postimg.cc/prXrbbrL/rede-globo.png</thumbnail>
+<fanart></fanart>
+<info>TV Globo São Paulo é uma emissora de televisão brasileira sediada em São Paulo, capital do estado homônimo.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO NORDESTE[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fglobonordeste%2F</page></regex>
+<thumbnail>https://i.postimg.cc/prXrbbrL/rede-globo.png</thumbnail>
+<fanart></fanart>
+<info>TV Globo Nordeste é uma emissora de televisão brasileira sediada no Recife, capital do estado de Pernambuco. Opera no canal 13 e é uma emissora própria da Rede Globo.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]SBT SP[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fsbtsp%2F</page></regex>
+<thumbnail>https://i.postimg.cc/wTqLHZZJ/sbt.png</thumbnail>
+<fanart></fanart>
+<info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fband%2F</page></regex>
+<thumbnail>https://i.postimg.cc/rmSThh9F/band.png</thumbnail>
+<fanart></fanart>
+<info>Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes de Comunicação. Entrou no ar no dia 13 de maio de 1967, em São Paulo, SP, pelo canal 13 VHF</info>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD TV[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Frecord%2F</page></regex>
+<thumbnail>https://i.postimg.cc/W1RV0cVq/record-tv.png</thumbnail>
+<fanart></fanart>
+<info>Record TV, é uma rede de televisão comercial aberta brasileira com sede na cidade de São Paulo. Fundada em 27 de setembro de 1953 pelo empresário e comunicador Paulo Machado de Carvalho, a sua criação remonta à chegada da televisão no Brasil, quando Paulo Machado se interessou pelo novo meio de comunicação e quis ampliar seu conglomerado midiático (que incluía diversas estações de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]REDE TV![/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fredetv%2F</page></regex>
+<thumbnail>https://i.postimg.cc/T2ZJ6tGJ/rede-tv.png</thumbnail>
+<fanart></fanart>
+<info>Rede TV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TV CULTURA[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftvculturahd%2F</page></regex>
+<thumbnail>https://i.postimg.cc/qv7scSG0/tv-cultura.png</thumbnail>
+<fanart></fanart>
+<info>TV Cultura é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TV BRASIL[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftvbrasil%2F</page></regex>
+<thumbnail>https://i.postimg.cc/hjqgqWk6/tv-brasil.png</thumbnail>
+<fanart></fanart>
+<info>TV Brasil é a rede de televisão pública do Poder Executivo Brasileiro. Pertence à Empresa Brasil de Comunicação, conglomerado de mídia do governo do país.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]REDE BRASIL[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fredebrasil%2F</page></regex>
+<thumbnail>https://i.postimg.cc/NjqcW2Wb/rede-brasil.png</thumbnail>
+<fanart></fanart>
+<info>Rede Brasil de Televisão é uma rede de televisão aberta brasileira. Foi inaugurada em 7 de abril de 2007, e é presidida pelo advogado tributarista Marcos Tolentino. A rede é oriunda de Campo Grande, capital do estado de Mato Grosso do Sul, e está sediada em São Paulo, capital do estado homônimo.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TV GAZETA[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftvgazetahd%2F</page></regex>
+<thumbnail>https://i.postimg.cc/T2bGQcsh/tv-gazeta.png</thumbnail>
+<fanart></fanart>
+<info>TV Gazeta é uma rede de televisão brasileira sediada na cidade de São Paulo. Foi inaugurada em 25 de janeiro de 1970 e pertence à Fundação Cásper Líbero, uma instituição sem fins lucrativos que também administra a Gazeta FM, os portais Gazeta Esportiva e Gazeta Press, além da Faculdade Cásper Líbero.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]CANÇÃO NOVA[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcancaonova%2F</page></regex>
+<thumbnail>https://i.postimg.cc/RFrp0wLb/cancao-nova.png</thumbnail>
+<fanart></fanart>
+<info>Canção Nova é uma comunidade católica brasileira fundada pelo Monsenhor Jonas Abib no ano de 1978, seguindo as linhas da Renovação Carismática Católica.</info>
+</item>
+
+
+
+
+

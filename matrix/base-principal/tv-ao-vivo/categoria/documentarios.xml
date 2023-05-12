@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoverychannel%2F</page></regex>
+<thumbnail>https://i.postimg.cc/YSg8BpHz/discovery-channel.png</thumbnail>
+<fanart></fanart>
+<info>Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoveryscience%2F</page></regex>
+<thumbnail>https://i.postimg.cc/QN6QPB7r/discovery-science.png</thumbnail>
+<fanart></fanart>
+<info>Discovery Science é um canal de televisão de TV por assinatura do grupo Discovery Networks que tem como tarefa reexibir os programas ligados a ciência passados no Discovery Channel, sem intervalos comerciais. Exibe documentários sobre astronomia, tecnologia, história e biologia.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY THEATER[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoverytheater%2F</page></regex>
+<thumbnail>https://i.postimg.cc/mk67Fq4r/discovery-theater.png</thumbnail>
+<fanart></fanart>
+<info>Discovery Theater é um canal de televisão por assinatura em alta definição norte-americano, pertencente a Discovery Inc. Foi lançado a nível nacional nos Estados Unidos em 1º de junho de 2002 como Discovery HD Theater se tornando o canal precursor a ser inteiramente exibido em HD no país.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY WORLD[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoveryworld%2F</page></regex>
+<thumbnail>https://i.postimg.cc/zfm36NpN/discovery-world.png</thumbnail>
+<fanart></fanart>
+<info>Discovery World é um canal de televisão por assinatura norte-americano. Desde 1991 sobre o nome de TLC o canal é distribuído pela Discovery Inc.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoveryturbo%2F</page></regex>
+<thumbnail>https://i.postimg.cc/h4Vs54rD/discovery-turbo.png</thumbnail>
+<fanart></fanart>
+<info>Discovery Turbo é um canal pertencente a Discovery Inc. com a programação dedicada a máquinas como carros, motos, barcos e aviões. Tem a tarefa de re-exibir os programas ligados a essas máquinas passados no Discovery Channel, sem intervalos comerciais.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY HOME &amp; HEALTH[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoveryhomehealth%2F</page></regex>
+<thumbnail>https://i.postimg.cc/2Sjf5K6W/discovery-home-health.png</thumbnail>
+<fanart></fanart>
+<info>Discovery Home &amp; Health é um canal de TV por assinatura dedicado à beleza, bem estar e a vida em família. O Discovery Home &amp; Health apresenta uma programação diversificada, englobando temas como beleza, moda, saúde, programas cientificos entre outros</info>
+</item>
+
+<item>
+<title>[B][COLOR white]INVESTIGAÇÃO DISCOVERY[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Finvestigacaodiscovery%2F</page></regex>
+<thumbnail>https://i.postimg.cc/gkJpK7VK/investigacao-discovery.png</thumbnail>
+<fanart></fanart>
+<info>ID é a versão brasileira de ID, um canal de televisão por assinatura estadunidense pertencente ao Discovery Inc. Assim como o canal originário, sua programação apresenta programas em estilo documental que abordam crimes reais, incluindo investigações criminais, criminalística, e outros documentários focados em crimes.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]HGTV[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhgtv%2F</page></regex>
+<thumbnail>https://i.postimg.cc/fysLLfpr/hgtv.png</thumbnail>
+<fanart></fanart>
+<info>HGTV é um rede de televisão por assinatura sediado nos Estados Unidos, que é de propriedade da Warner Bros. Discovery. A rede basicamente transmite programas como realitys relacionados à melhoria de casas e imóveis. Em fevereiro de 2015, aproximadamente 95.628.000 domicílios americanos recebem a HGTV.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fnationalgeographic%2F</page></regex>
+<thumbnail>https://i.postimg.cc/L47qLjfh/national-geographic-channel.png</thumbnail>
+<fanart></fanart>
+<info>National Geographic é um canal de televisão por assinatura brasileiro, de propriedade da Walt Disney Television, uma divisão da The Walt Disney Company. O canal é destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história e meio ambiente.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fanimalplanet%2F</page></regex>
+<thumbnail>https://i.postimg.cc/Hk38JRt1/animal-planet.png</thumbnail>
+<fanart></fanart>
+<info>Animal Planet é um canal de televisão por assinatura com sede nos Estados Unidos da América e transmitido também para a América latina. Estabelecido pela primeira vez em 1 de outubro de 1996, a rede é dedicada principalmente a séries e documentários sobre animais selvagens e animais domésticos.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]HISTORY CHANNEL[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhistory%2F</page></regex>
+<thumbnail>https://i.postimg.cc/d3MhPYJr/history-channel.png</thumbnail>
+<fanart></fanart>
+<info>History, antes chamado de The History Channel, é um canal de televisão por assinatura americano cuja programação é focada essencialmente em conteúdos de teor histórico e científico. Apesar disso, o canal também aborda temas atuais de relevância. O History está disponível na maior parte das ofertas televisivas pagas.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]HISTORY 2[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fh2%2F</page></regex>
+<thumbnail>https://i.postimg.cc/rm584tLR/history-2.png</thumbnail>
+<fanart></fanart>
+<info>History 2, anteriormente chamado de H2, é um canal de televisão por assinatura que exibe documentários, pertencente a A&E Networks, canal irmão do History. Distribuído no Brasil pela HBO, desde 1 de outubro de 2014 substituiu o Bio. no país.</info>
+</item>
+
+
+
+
