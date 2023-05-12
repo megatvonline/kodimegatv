@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <item>
+<title>[B][COLOR white]CARTOON NETWORK[/COLOR][/B] [B][COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[MEGA_TV]</link>
+<regex>
+<name>MEGA_TV</name>
+<expres>source: "(.*?)"</expres>
+<referer>https://playertv.net/</referer> 
+<page>https://playertv.net/tv.php?c=cartoonito</page></regex>
+<thumbnail></thumbnail>
+<fanart></fanart>  
+</item>
+
+<item>
 <title>[B][COLOR white]CARTOON NETWORK[/COLOR][/B]</title>
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
