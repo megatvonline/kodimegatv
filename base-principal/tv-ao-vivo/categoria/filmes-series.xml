@@ -221,7 +221,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TBS[/COLOR][/B]</title>
+<title>[B][COLOR white]TBS BRASIL[/COLOR][/B]</title>
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
