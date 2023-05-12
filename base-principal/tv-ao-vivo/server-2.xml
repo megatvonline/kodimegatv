@@ -8,6 +8,38 @@
 </item>
 
 <item>
+<title>[B][COLOR white]STAR CHANNEL[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]STAR CHANNEL[/COLOR][/B]&amp;url=https://ipzeruela.shop/Star-Filme/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/7PXSVR3K/star-channel.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]MEGAPIX[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]MEGAPIX[/COLOR][/B]&amp;url=https://ipzeruela.shop/MEGAPIX/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/Hxz86Jyr/megapix.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]FX[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]FX[/COLOR][/B]&amp;url=https://ipzeruela.shop/FX/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/BQQBf3ZW/fx.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]WARNER TV[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]WARNER TV[/COLOR][/B]&amp;url=https://ipzeruela.shop/Warner-Channel/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/XqrmsCzL/warner-tv.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR white]SPACE[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]SPACE[/COLOR][/B]&amp;url=https://ipzeruela.shop/SPACE/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
 <thumbnail>https://i.postimg.cc/yN5FF30s/space.png</thumbnail>
@@ -33,7 +65,7 @@
 
 <item>
 <title>[B][COLOR white]CINEMAX[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]CINEMAX[/COLOR][/B]&amp;url=https://ipzeruela.shop/CINEMAX//tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]CINEMAX[/COLOR][/B]&amp;url=https://ipzeruela.shop/CINEMAX/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
 <thumbnail>https://i.postimg.cc/t43GxFPG/cinemax.png</thumbnail>
 <fanart></fanart>
 <info></info>
