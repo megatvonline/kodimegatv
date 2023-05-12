@@ -3,6 +3,14 @@
 <layouttype>thumbnail</layouttype> 
 
 <channels>
+  
+<channel>
+<name>[B][COLOR white]TODOS OS CANAIS[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/y85RxMXr/todos-canais.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/base-principal/tv-ao-vivo/categoria/todos-canais.xml</externallink>
+<fanart></fanart>
+<info></info>
+</channel>  
 
 <channel>
 <name>[B][COLOR white]CANAIS ABERTOS[/COLOR][/B]</name>
@@ -59,5 +67,5 @@
 <fanart></fanart>
 <info></info>
 </channel>
-
+  
 </channels>
