@@ -8,6 +8,14 @@
 </item>
 
 <item>
+<title>[B][COLOR white]TBS BRASIL[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]TBS BRASIL[/COLOR][/B]&amp;url=https://ipzeruela.shop/TBS/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/BbSXrq0X/tbs-brasil.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR blue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR] [COLOR blue]|||[/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.postimg.cc/05THpWG6/infantil.png</thumbnail>
@@ -151,7 +159,7 @@
 
 <item>
 <title>[B][COLOR white]DISCOVERY HOME &amp; HEALTH[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR][/B]&amp;url=https://ipzeruela.shop/Discorevy-HH/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]DISCOVERY HOME HEALTH[/COLOR][/B]&amp;url=https://ipzeruela.shop/Discorevy-HH/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
 <thumbnail>https://i.postimg.cc/2Sjf5K6W/discovery-home-health.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -159,7 +167,7 @@
 
 <item>
 <title>[B][COLOR white]INVESTIGAÇÃO DISCOVERY[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]INVESTIGAÇÃO DISCOVERY[/COLOR][/B]&amp;url=https://ipzeruela.shop/Discorevy-ID/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]INVESTIGACAO DISCOVERY[/COLOR][/B]&amp;url=https://ipzeruela.shop/Discorevy-ID/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
 <thumbnail>https://i.postimg.cc/gkJpK7VK/investigacao-discovery.png</thumbnail>
 <fanart></fanart>
 <info></info>
