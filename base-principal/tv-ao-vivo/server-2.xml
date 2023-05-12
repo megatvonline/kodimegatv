@@ -9,7 +9,7 @@
 
 <item>
 <title>[B][COLOR white]STAR CHANNEL[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]STAR CHANNEL[/COLOR][/B]&amp;url=https://ipzeruela.shop/Star-Filme/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]STAR CHANNEL[/COLOR][/B]&amp;url=https://ipzeruela.shop/Star-Filmes/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
 <thumbnail>https://i.postimg.cc/7PXSVR3K/star-channel.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -96,9 +96,49 @@
 </item>
 
 <item>
+<title>[B][COLOR white]PARAMOUNT NETWORK[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]PARAMOUNT NETWORK[/COLOR][/B]&amp;url=https://ipzeruela.shop/Paramount-Filmes/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/nhS7J9RB/paramount-network.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR white]TBS BRASIL[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]TBS BRASIL[/COLOR][/B]&amp;url=https://ipzeruela.shop/TBS/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
 <thumbnail>https://i.postimg.cc/BbSXrq0X/tbs-brasil.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]AXN[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]AXN[/COLOR][/B]&amp;url=https://ipzeruela.shop/AXN/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/6Q7HJX06/axn.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]SYFY[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]SYFY[/COLOR][/B]&amp;url=https://ipzeruela.shop/SYFY/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/Jnst5TM2/syfy.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]AMC[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]AMC[/COLOR][/B]&amp;url=https://ipzeruela.shop/AMC/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/rmxQsN3v/amc.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]A&amp;E[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]A&E[/COLOR][/B]&amp;url=https://ipzeruela.shop/AE/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/prnxp4RP/aie.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
