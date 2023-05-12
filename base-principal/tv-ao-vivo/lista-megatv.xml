@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+#EXTM3U
 
-<item>
-<title>[B][COLOR blue]|||[/COLOR] [COLOR white]TV Aberta[/COLOR] [COLOR white]|||[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://</thumbnail>
-<fanart></fanart> 
-</item>
-
-<item>
-<title>[B][COLOR white]Globo Minas[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[B][COLOR blue]Mega[/COLOR] [COLOR white]TV[/COLOR][/B]&url=https://ipzeruela.shop/GLOOBINHO/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 tvg-id="" tvg-logo="" [COLOR white][B][B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
+EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",[COLOR white][B]BAND[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=https://ipzeruela.shop/GLOOBINHO/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
