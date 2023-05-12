@@ -6,7 +6,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fstarchannel%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/star-channel.png</thumbnail>
+<thumbnail>https://i.postimg.cc/7PXSVR3K/star-channel.png</thumbnail>
 <fanart></fanart>
 <info>Star Channel Broadcasting Company, normalmente referida como FOX e estilizado como FOX, é uma emissora de televisão com sede nos Estados Unidos.</info>
 </item>
@@ -17,7 +17,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fmegapix%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/megapix.png</thumbnail>
+<thumbnail>https://i.postimg.cc/Hxz86Jyr/megapix.png</thumbnail>
 <fanart></fanart>
 <info>Megapix é um canal de televisão por assinatura da GloboSat. É voltado exclusivamente para filmes dublados, faz exibição de títulos na segunda janela da TV por assinatura.[4] Filmes que geralmente foram lançados pelo Telecine ou HBO, mas que estreiam com exclusividade nos pacotes básicos pelo Megapix</info>
 </item>
@@ -28,7 +28,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ffx%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/fx.png</thumbnail>
+<thumbnail>https://i.postimg.cc/BQQBf3ZW/fx.png</thumbnail>
 <fanart></fanart>
 <info>FX é um canal de televisão por assinatura brasileiro, de propriedade da Walt Disney Television, uma divisão da The Walt Disney Company. O canal conta com uma grade de programação composta por séries atuais e populares como American Dad e Uma Família da Pesada e filmes de ação.</info>
 </item>
@@ -39,7 +39,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbo%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/hbo.png</thumbnail>
+<thumbnail>https://i.postimg.cc/k4Sq5Lnq/hbo.png</thumbnail>
 <fanart></fanart>
 <info>HBO (abreviação de Home Box Office) é um canal de televisão por assinatura norte-americano, de propriedade da Warner Media (uma subsidiária da AT&amp;T). Em março de 2011, a sua programação era assistida por 28,2 milhões de assinantes nos Estados Unidos, tornando-se a segunda maior rede premium de canais na América do Norte, atrás apenas da Encore, que tem um público de 32,8 milhões.[1] Além dos EUA, a HBO é transmitida para pelo menos 50 países.</info>
 </item>
@@ -50,7 +50,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbo2%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/hbo-2.png</thumbnail>
+<thumbnail>https://i.postimg.cc/vZDRBCzk/hbo-2.png</thumbnail>
 <fanart></fanart>
 <info>HBO 2, é um canal de televisão por assinatura da rede HBO que exibe 24 horas de filmes em versão dublada os principais filmes apresentados pela HBO e séries exclusivas, sem intervalos comerciais. A partir de julho de 2009, a HBO 2 ganhou sua independência.</info>
 </item>
@@ -61,7 +61,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhboplus%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/hbo-plus.png</thumbnail>
+<thumbnail>https://i.postimg.cc/8P5XBM6r/hbo-plus.png</thumbnail>
 <fanart></fanart>
 <info>HBO Plus *e, versão multiplex do original, foi um canal pago que exibia a programação com 3 horas de diferença. Por decisão de sua programadora, o canal deixou de existir no dia 31/12/2018, passando a ter a programação normal no HBO Plus.</info>
 </item>
@@ -72,7 +72,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbofamily%2F</page></regex>
-<thumbnail>https://i.postimg.cc/Yqhy2k2W/hbo-family.png</thumbnail>
+<thumbnail>https://i.postimg.cc/wTZ2XPzS/hbo-family.png</thumbnail>
 <fanart></fanart>
 <info>HBO Family é um canal de televisão por assinatura originado da HBO. A HBO Family se caracteriza pela leveza da programação, que vai desde os filmes até o visual das chamadas com uma locução composta de uma voz tranquila e sem pressa durante os períodos que os filmes não estão em execução, mostrando ao telespectador as futuras atrações.</info>
 </item>
@@ -83,7 +83,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbosignature%2F</page></regex>
-<thumbnail>https://i.postimg.cc/Wzp7tBBC/hbo-signature.png</thumbnail>
+<thumbnail>https://i.postimg.cc/SKrcvt0Q/hbo-signature.png</thumbnail>
 <fanart></fanart>
 <info>HBO Signature é um canal de televisão por assinatura pertencente a Home Box Office lançado em 1991 nos Estados Unidos. O canal foi lançado primeiramente no Brasil em 1 de fevereiro de 2012 para depois ser lançado na América Latina. No Brasil o canal substituiu o HBO Family *e, com sinal exclusivo para o país,[3] sendo exibido com áudio original e legendas sem intervalos comerciais.</info>
 </item>
@@ -94,7 +94,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhboxtreme%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/hbo-xtreme.png</thumbnail>
+<thumbnail>https://i.postimg.cc/1RTw2qdF/hbo-xtreme.png</thumbnail>
 <fanart></fanart>
 <info>HBO Xtreme é um canal de televisão por assinatura, que foi lançado em 2000 como Cinemax Prime. O canal tem atualmente como foco o público adulto masculino. O canal chamava-se MaxPrime de setembro de 2003 até 2020.</info>
 </item>
@@ -105,7 +105,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbomundi%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/hbo-mundi.png</thumbnail>
+<thumbnail>https://i.postimg.cc/MGT1gmzy/hbo-mundi.png</thumbnail>
 <fanart></fanart>
 <info>HBO Mundi é um canal premium de televisão por assinatura que oferecem filmes, apresentações especiais e outros serviços aos consumidores. Foi lançado em 1º de junho de 2010, substituindo o Cinemax *e. O HBO Mundi é operado pela HBO Latin America Group, uma subsidiária da Warner Media.</info>
 </item>
@@ -116,7 +116,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbopop%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/hbo-pop.png</thumbnail>
+<thumbnail>https://i.postimg.cc/MG2vm0v6/hbo-pop.png</thumbnail>
 <fanart></fanart>
 <info>HBO POP é um canal de televisão por assinatura pertencente a HBO, que substituiu os anteriores MAX HD e MAX UP. Em 31 de outubro de 2019, com o anúncio da unificação dos canais Max para HBO, o canal Max UP foi renomeado para HBO Pop em 1° de fevereiro de 2020.</info>
 </item>
@@ -127,7 +127,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fwarnerchannel%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/warner-tv.png</thumbnail>
+<thumbnail>https://i.postimg.cc/XqrmsCzL/warner-tv.png</thumbnail>
 <fanart></fanart>
 <info>Warner TV é um canal de televisão por assinatura que é transmitido na América Latina e no Sudeste da Ásia pertencente a Warner Bros. Entertainment A maior parte de sua programação tem o áudio original em Inglês com legendas em Espanhol, possuindo também poucos programas dublados</info>
 </item>
@@ -138,7 +138,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Funiversalchannel%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/universal-tv.png</thumbnail>
+<thumbnail>https://i.postimg.cc/RF4vpX7R/universal-tv.png</thumbnail>
 <fanart></fanart>
 <info>Universal TV é um canal de televisão por assinatura internacional, disponível em diversos países do mundo, incluindo o Brasil. O canal é especializado em séries de televisão de diversos gêneros, dentre os quais, principalmente, thrillers, dramas, horror crime e erótico.</info>
 </item>
@@ -149,7 +149,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fspace%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/space.png</thumbnail>
+<thumbnail>https://i.postimg.cc/yN5FF30s/space.png</thumbnail>
 <fanart></fanart>
 <info>Space é um canal de televisão por assinatura da América Latina. É um canal pertencente à Turner Broadcasting System, subsidiária da Warner Media. Por exibir filmes dos gêneros de ação, ficção científica, policial e terror, e séries do gênero policial e suspense é voltado para mulheres e homens acima de 18 anos de idade.</info>
 </item>
@@ -160,18 +160,18 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fstudiouniversal%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/studio-universal.png</thumbnail>
+<thumbnail>https://i.postimg.cc/q707WJ0y/studio-universal.png</thumbnail>
 <fanart></fanart>
 <info>Stúdio Universal é um canal de televisão por assinatura com programação de filmes e séries pertencente ao grupo Universal Networks International.[4] Sua programação foca nos filmes do catálogo da Universal Studios, especiais como filmes classificados por ator, diretor entre outros. No Brasil o Studio Universal é programado pela Globosat desde 2012.</info>
 </item>
 
 <item>
-<title>[B][COLOR white]SONY[/COLOR][/B]</title>
+<title>[B][COLOR white]CANAL SONY[/COLOR][/B]</title>
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fsony%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/canal-sony.png</thumbnail>
+<thumbnail>https://i.postimg.cc/ncHQ9GNq/canal-sony.png</thumbnail>
 <fanart></fanart>
 <info>Sony Channel é um canal de entretenimento geral de propriedade da Sony Pictures Entertainment, geralmente abreviado para Canal Sony em português e espanhol.</info>
 </item>
@@ -182,7 +182,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcinemax%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/cinemax.png</thumbnail>
+<thumbnail>https://i.postimg.cc/t43GxFPG/cinemax.png</thumbnail>
 <fanart></fanart>
 <info>Cinemax é um canal de televisão por assinatura de filmes, que pertence a HBO, uma subsidiária da Warner Media Inc. Foi lançado no Brasil no dia 1º de outubro de 1997.</info>
 </item>
@@ -193,7 +193,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftnt%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/tnt.png</thumbnail>
+<thumbnail>https://i.postimg.cc/TwJ3TZdF/tnt.png</thumbnail>
 <fanart></fanart>
 <info>TNT (abreviação para Turner Network Television), é um canal de televisão por assinatura especializado em filmes e séries. O canal original foi criado pelo magnata da mídia Ted Turner em 1988 nos Estados Unidos.</info>
 </item>
@@ -204,7 +204,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftntseries%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/tnt-series.png</thumbnail>
+<thumbnail>https://i.postimg.cc/sDNDfPzj/tnt-series.png</thumbnail>
 <fanart></fanart>
 <info>TNT Séries é um canal de televisão por assinatura especializado em séries, que chegou ao Brasil para substituir o Glitz*. A programação é exibida em áudio dublado e legendado, com legendas selecionáveis em português.</info>
 </item>
@@ -215,7 +215,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fparamountchannel%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/paramount-network.png</thumbnail>
+<thumbnail>https://i.postimg.cc/nhS7J9RB/paramount-network.png</thumbnail>
 <fanart></fanart>
 <info>Paramount Network é um canal de televisão por assinatura americano pertencente à divisão Paramount Media Networks da Paramount Global. A sede da rede está localizada no estúdio Paramount Pictures em Los Angeles.</info>
 </item>
@@ -226,7 +226,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftbs%2F</page></regex>
-<thumbnail>https://i.postimg.cc/DyHzzqsP/tbs-brasil.png</thumbnail>
+<thumbnail>https://i.postimg.cc/BbSXrq0X/tbs-brasil.png</thumbnail>
 <fanart></fanart>
 <info>TBS Brasil é uma rede brasileira de TV por assinatura pertencente a Warner Bros. Discovery, sendo a versão local do canal americano TBS. A rede é voltado para a comédia, filmes, e séries para a família, sendo o primeiro no país com estas características</info>
 </item>
@@ -237,7 +237,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftelecinepremium%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/telecine-premium.png</thumbnail>
+<thumbnail>https://i.postimg.cc/BbS3CpWK/telecine-premium.png</thumbnail>
 <fanart></fanart>
 <info>Telecine Premium é um canal de televisão brasileiro pertencente à Rede Telecine, transmitido pela TV por assinatura nas operadoras Vivo TV, NET, JET TV, Claro TV, Sky Brasil, Oi TV e Vivo DTH com a transmissão de filmes que geralmente são estreias inéditas na televisão brasileira, que já foram atrações de maior bilheteria, lançamentos de grande sucesso, ou até mesmo as mais recentes produções dos anos 90.</info>
 </item>
@@ -248,7 +248,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftelecinepipoca%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/telecine-pipoca.png</thumbnail>
+<thumbnail>https://i.postimg.cc/13nQM4dJ/telecine-pipoca.png</thumbnail>
 <fanart></fanart>
 <info>Telecine Pipoca é um canal de televisão por assinatura brasileiro que exibe 24 horas de filmes em versão dublada os principais filmes apresentados pelo Telecine Premium, Telecine Action, Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comerciais de 2 minutos.</info>
 </item>
@@ -259,7 +259,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftelecineaction%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/telecine-action.png</thumbnail>
+<thumbnail>https://i.postimg.cc/3R3zMwLM/telecine-action.png</thumbnail>
 <fanart></fanart>
 <info>Telecine Action é um canal de televisão por assinatura brasileiro transmitido pelas operadoras NET, SKY, Claro TV, Vivo TV, Oi TV, CTBC TV e TV Alphaville que dá destaque à transmissão de antigos e novos filmes de ação. Já que o canal é dedicado a exibir filmes de ação, logo o nome do canal.</info>
 </item>
@@ -270,7 +270,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftelecinetouch%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/telecine-touch.png</thumbnail>
+<thumbnail>https://i.postimg.cc/66PwZdjy/telecine-touch.png</thumbnail>
 <fanart></fanart>
 <info>Telecine Touch é um canal de televisão por assinatura brasileiro que exibe uma programação com gêneros de filmes derivados do cinema emotivo, grandes romances, biografias e dramas, com um intervalo comercial de 2 minutos.</info>
 </item>
@@ -281,7 +281,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftelecinefun%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/telecine-fun.png</thumbnail>
+<thumbnail>https://i.postimg.cc/434NPXzd/telecine-fun.png</thumbnail>
 <fanart></fanart>
 <info>Telecine Fun é um canal de televisão por assinatura brasileiro pertencente aos canais da Rede Telecine. O canal exibe filmes de comédia, comédia romântica e animações, originalmente no idioma original com legendas, mas desde 2012 em versão dublada.</info>
 </item>
@@ -292,7 +292,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftelecinecult%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/telecine-cult.png</thumbnail>
+<thumbnail>https://i.postimg.cc/sDyF7wPf/telecine-cult.png</thumbnail>
 <fanart></fanart>
 <info>Telecine Cult é um canal de televisão por assinatura brasileiro que exibe filmes clássicos, filmes independentes, filmes temáticos, filmes raros e filmes de arte com produções europeias, asiáticas, latinas, etc. O canal exibe todos os filmes sem os eventuais intervalos comerciais.</info>
 </item>
@@ -303,7 +303,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftcm%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/tcm.png</thumbnail>
+<thumbnail>https://i.postimg.cc/xTSBvcPv/tcm.png</thumbnail>
 <fanart></fanart>
 <info>TCM é um canal de televisão dirigida ao público acima de 35 anos e tem como principais características exibir filmes da época de ouro do cinema. Inicialmente, o TCM apresentava produções dos anos 30 aos anos 70, sempre sem cortes e sem intervalos comerciais.</info>
 </item>
@@ -314,7 +314,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Faxn%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/axn.png</thumbnail>
+<thumbnail>https://i.postimg.cc/6Q7HJX06/axn.png</thumbnail>
 <fanart></fanart>
 <info>AXN é um canal de televisão por assinatura de propriedade da Sony Pictures Entertainment, que foi inicialmente lançado a 22 de maio de 1997 na Ásia com o nome de Action Extreme Channel. No entanto, por razões comerciais e para facilitar a sua difusão pelo público, o nome é alterado para AXN.</info>
 </item>
@@ -325,7 +325,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fsyfy%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/syfy.png</thumbnail>
+<thumbnail>https://i.postimg.cc/Jnst5TM2/syfy.png</thumbnail>
 <fanart></fanart>
 <info>Syfy é um canal de televisão por assinatura. Sua programação é dedicada à ficção científica, fantasia, terror e paranormal.</info>
 </item>
@@ -336,7 +336,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Famcbrasil%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/amc.png</thumbnail>
+<thumbnail>https://i.postimg.cc/rmxQsN3v/amc.png</thumbnail>
 <fanart></fanart>
 <info>AMC é um canal de televisão por assinatura que transmite principalmente filmes. O nome do canal era originalmente um acrônimo de American Movie Classics. No entanto, desde 2003 o nome completo não recebeu mais ênfase, como resultado de uma grande mudança na programação.</info>
 </item>
@@ -347,7 +347,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Faemundo%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/aie.png</thumbnail>
+<thumbnail>https://i.postimg.cc/prnxp4RP/aie.png</thumbnail>
 <fanart></fanart>
 <info>A&amp;E é uma rede de televisão transmitida por servidores de televisão a cabo ou satélite. Seus edifícios empresariais principais se localizam em Manhattan com demais escritórios em Stamford, Atlanta, Detroit, Los Angeles, Chicago e Londres.</info>
 </item>
