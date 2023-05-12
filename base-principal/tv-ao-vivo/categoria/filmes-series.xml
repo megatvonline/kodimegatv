@@ -72,7 +72,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbofamily%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/hbo-family.png</thumbnail>
+<thumbnail>https://i.postimg.cc/Yqhy2k2W/hbo-family.png</thumbnail>
 <fanart></fanart>
 <info>HBO Family é um canal de televisão por assinatura originado da HBO. A HBO Family se caracteriza pela leveza da programação, que vai desde os filmes até o visual das chamadas com uma locução composta de uma voz tranquila e sem pressa durante os períodos que os filmes não estão em execução, mostrando ao telespectador as futuras atrações.</info>
 </item>
@@ -83,7 +83,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbosignature%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/hbo-signature.png</thumbnail>
+<thumbnail>https://i.postimg.cc/y8GQ3Gdb/hbo-signature.png</thumbnail>
 <fanart></fanart>
 <info>HBO Signature é um canal de televisão por assinatura pertencente a Home Box Office lançado em 1991 nos Estados Unidos. O canal foi lançado primeiramente no Brasil em 1 de fevereiro de 2012 para depois ser lançado na América Latina. No Brasil o canal substituiu o HBO Family *e, com sinal exclusivo para o país,[3] sendo exibido com áudio original e legendas sem intervalos comerciais.</info>
 </item>
@@ -226,7 +226,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftbs%2F</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/tbs.png</thumbnail>
+<thumbnail>https://i.postimg.cc/tg9nXqdd/tbs-brasil.png</thumbnail>
 <fanart></fanart>
 <info>TBS Brasil é uma rede brasileira de TV por assinatura pertencente a Warner Bros. Discovery, sendo a versão local do canal americano TBS. A rede é voltado para a comédia, filmes, e séries para a família, sendo o primeiro no país com estas características</info>
 </item>
