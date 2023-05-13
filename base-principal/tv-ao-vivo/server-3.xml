@@ -244,3 +244,32 @@
 <info></info>
 </item>
 
+<item>
+<title>[B][COLOR blue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR] [COLOR blue]|||[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.postimg.cc/7P3SWK8J/esportes.png</thumbnail>
+<fanart></fanart> 
+</item>
+
+<item>
+<title>[B][COLOR white]COMBATE[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]COMBATE[/COLOR][/B]&amp;url=http://191.37.250.169:8801/live/CombateHD/720p.m3u8</link>
+<thumbnail>https://i.postimg.cc/FFMRwv9G/combate.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR blue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR] [COLOR blue]|||[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.postimg.cc/nh3LjD8L/noticias.png</thumbnail>
+<fanart></fanart> 
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO NEWS[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]GLOBO NEWS[/COLOR][/B]&amp;url=http://191.37.250.169:8801/live/GloboNewsHD/720p.m3u8</link>
+<thumbnail>https://i.postimg.cc/GmdqJ95y/globo-news.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
