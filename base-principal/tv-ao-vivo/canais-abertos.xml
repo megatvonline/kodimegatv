@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="[B][COLOR white]GUIA DE CANAIS[/COLOR][/B]" tvg-logo="https://i.postimg.cc/NjqcW2Wb/rede-brasil.png",[B][COLOR white]REDE BRASIL[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjqcW2Wb/rede-brasil.png",[B][COLOR white]REDE BRASIL[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]REDE BRASIL[/COLOR][/B]&amp;url=https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1658903474.m3u8
