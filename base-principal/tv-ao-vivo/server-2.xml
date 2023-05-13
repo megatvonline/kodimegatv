@@ -644,6 +644,101 @@
 </item>
 
 <item>
+<title>[B][COLOR blue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR] [COLOR blue]|||[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.postimg.cc/7P3SWK8J/esportes.png</thumbnail>
+<fanart></fanart> 
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]SPORTV[/COLOR][/B]&amp;url=https://ipzeruela.shop/SporTV/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/xTps964s/sportv.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 2[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]SPORTV 2[/COLOR][/B]&amp;url=https://ipzeruela.shop/SporTV-2/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/fbm5jDTF/sportv-2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 3[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]SPORTV 3[/COLOR][/B]&amp;url=https://ipzeruela.shop/SporTV-3/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/HWBztSdp/sportv-3.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]ESPN[/COLOR][/B]&amp;url=https://ipzeruela.shop/ESPN/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/XvRm4spM/espn.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN 2[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]ESPN 2[/COLOR][/B]&amp;url=https://ipzeruela.shop/ESPN-2/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/7ZcQnK1C/espn-2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN 3[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]ESPN 3[/COLOR][/B]&amp;url=https://ipzeruela.shop/ESPN-3/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/63xjDTmt/espn-3.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN 4[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]ESPN 4[/COLOR][/B]&amp;url=https://ipzeruela.shop/ESPN-4/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/4dvLZZDt/espn-4.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS 2[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]FOX SPORTS 2[/COLOR][/B]&amp;url=https://ipzeruela.shop/Fox-Sport-2/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/sf7yQhr9/fox-sports-2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND SPORTS[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]BAND SPORTS[/COLOR][/B]&amp;url=https://ipzeruela.shop/BAND-SPORTS/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/XYZCdL7D/band-sports.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]COMBATE[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]COMBATE[/COLOR][/B]&amp;url=https://ipzeruela.shop/COMBATE/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/FFMRwv9G/combate.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE CLUBES[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]PREMIERE CLUBES[/COLOR][/B]&amp;url=https://ipzeruela.shop/Premiere-CLUBES/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/LX4fYpqj/premiere-clubes.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR blue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR] [COLOR blue]|||[/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.postimg.cc/nh3LjD8L/noticias.png</thumbnail>
