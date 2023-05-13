@@ -38,6 +38,30 @@
 </item>
 
 <item>
+<title>[B][COLOR white]CINE CANAL[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]CINE CANAL[/COLOR][/B]&amp;url=https://cdn2.connectbr.com.br/cinecanal/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://i.postimg.cc/T310g6Bj/cine-canal.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]PARAMOUNT NETWORK[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]PARAMOUNT NETWORK[/COLOR][/B]&amp;url=https://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://i.postimg.cc/nhS7J9RB/paramount-network.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]TBS BRASIL[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]TBS BRASIL[/COLOR][/B]&amp;url=https://cdn-1.nxplay.com.br/TBS/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://i.postimg.cc/BbSXrq0X/tbs-brasil.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR white]TELECINE PREMIUM[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]TELECINE PREMIUM[/COLOR][/B]&amp;url=http://191.37.250.169:8801/live/TelecinePremiumHD/720p.m3u8</link>
 <thumbnail>https://i.postimg.cc/BbS3CpWK/telecine-premium.png</thumbnail>
@@ -65,6 +89,14 @@
 <title>[B][COLOR white]TELECINE FUN[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]TELECINE FUN[/COLOR][/B]&amp;url=http://191.37.250.169:8801/live/TelecineFunHD/720p.m3u8</link>
 <thumbnail>https://i.postimg.cc/434NPXzd/telecine-fun.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]AMC[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]AMC[/COLOR][/B]&amp;url=https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://i.postimg.cc/rmxQsN3v/amc.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -134,9 +166,25 @@
 </item>
 
 <item>
+<title>[B][COLOR white]TOONCAST[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]TOONCAST[/COLOR][/B]&amp;url=https://ipzeruela.shop/TOONCAST/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<thumbnail>https://i.postimg.cc/8zBcm0qt/tooncast.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR white]CARTOONITO[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]CARTOONITO[/COLOR][/B]&amp;url=https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8</link>
 <thumbnail>https://i.postimg.cc/jjpbjzMf/cartoonito.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]NICKELODEON[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]NICKELODEON[/COLOR][/B]&amp;url=https://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://i.postimg.cc/ht1GQ8Pk/nick.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
