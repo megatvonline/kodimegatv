@@ -399,7 +399,7 @@
 
 <item>
 <title>[B][COLOR white]TELECINE PIPOCA[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]TELECINE PIPOCA[/COLOR][/B]&amp;url=https://ipzeruela.shop/Telecine-Pipoca/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]TELECINE PIPOCA[/COLOR][/B]&amp;url=http://191.37.250.169:8801/live/TelecinePipocaHD/720p.m3u8</link>
 <thumbnail>https://i.postimg.cc/13nQM4dJ/telecine-pipoca.png</thumbnail>
 <fanart></fanart>
 <info></info>
