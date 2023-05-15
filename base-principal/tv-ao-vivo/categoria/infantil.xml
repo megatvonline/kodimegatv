@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <item>
-<title>[B][COLOR white]GLOOBINHO[/COLOR][/B]</title>
+<title>[B][COLOR white]GLOOBINH[/COLOR][/B]</title>
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=gloobinho?url=https%3A%2F%2Fapiresolver.kodimegatv.repl.co%2Fresolver%3Furl%3Dhttps%253A%252F%252Fplayer.aovivotv.xyz%252Fchannels%252Fgloob%252F</page></regex>
+<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=gloobinho?url=https%3A%2F%2Fapiresolver.kodimegatv.repl.co%2Fresolver%3Furl%3Dhttps%253A%252F%252Fplayertv.net/tv.php%252Fchannels%252F?c=globinho%252F</page></regex>
 <thumbnail>https://i.postimg.cc/tCY5shnr/gloobinho.png</thumbnail>
 <fanart></fanart>
 <info>Gloobinho é um canal educacional brasileiro canal de TV paga pertencente a Globosat. Baseado em Gloob, o canal é destinado a crianças de 2 a 5 anos.</info>
