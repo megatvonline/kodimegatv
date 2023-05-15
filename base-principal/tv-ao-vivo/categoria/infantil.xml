@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <item>
-<title>[B][COLOR white]GL[/COLOR][/B]</title>
+<title>[B][COLOR white]L[/COLOR][/B]</title>
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
