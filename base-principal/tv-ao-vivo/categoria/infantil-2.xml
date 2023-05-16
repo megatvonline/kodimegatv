@@ -100,17 +100,6 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TV RÁ-TIM-BUM[/COLOR][/B]</title>
-<link>$doregex[resolver]</link>
-<regex><name>resolver</name>
-<expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=tv-ra-tim-bum?url=https%3A%2F%2Fplayertv.net%2F%2Ftv.php?c=tv-ra-tim-bum%2F</page></regex>
-<thumbnail>https://i.postimg.cc/Pr30xWxq/tv-ra-tim-bum.png</thumbnail>
-<fanart></fanart>
-<info>TV Rá-Tim-Bum é um canal de televisão brasileiro fundado em 1º de dezembro de 2004, que pertence à Fundação Padre Anchieta, dedicado ao público infantil.</info>
-</item>
-
-<item>
 <title>[B][COLOR white]ZOOMOO KIDS[/COLOR][/B]</title>
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
@@ -121,13 +110,3 @@
 <info>Zoomoo Kids é um canal infantil fundado em 11 de setembro de 2013, pertencente as empresas Blue Ant Media, do Canadá, da Beach House Pictures, de Cingapura, e da Natural History New Zealand, da Nova Zelândia. Sua transmissão foi iniciada na SKY, canal 103. É um canal infantil de televisão por assinatura.</info>
 </item>
 
-<item>
-<title>[B][COLOR white]BABY TV[/COLOR][/B]</title>
-<link>$doregex[resolver]</link>
-<regex><name>resolver</name>
-<expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=baby-tv?url=https%3A%2F%2Fplayertv.net%2F%2Ftv.php?c=babytv%2F</page></regex>
-<thumbnail>https://i.postimg.cc/V6Hrrs63/baby-tv.png</thumbnail>
-<fanart></fanart>
-<info>Baby TV é um canal de televisão por assinatura internacional, lançado em 4 de dezembro de 2003, pertencente a Disney Media Networks Latin America, uma divisão da The Walt Disney Company América Latina. O canal é exclusivo para crianças de até 3 anos de idade.</info>
-</item>
