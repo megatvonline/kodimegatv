@@ -49,7 +49,7 @@
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=tooncast?url=https%3A%2F%2Ftv%2F%2Ftooncast%2F</page></regex>
+<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=tooncast?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftooncast%2F</page></regex>
 <thumbnail>https://i.postimg.cc/8zBcm0qt/tooncast.png</thumbnail>
 <fanart></fanart>
 <info>Tooncast é um canal infantil de desenhos clássicos fundado pela Warner Bros. Entertainment e pela Turner International que é também a programadora do Cartoon Network, do Boomerang, da TNT, do TNT Séries, do Space, da CNN International, da CNN en Español, do TBS, do TCM, do I.Sat e do Tru TV.</info>
