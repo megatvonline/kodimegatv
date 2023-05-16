@@ -100,7 +100,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TV Rá-Tim-Bum[/COLOR][/B]</title>
+<title>[B][COLOR white]TV RÁ-TIM-BUM[/COLOR][/B]</title>
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
