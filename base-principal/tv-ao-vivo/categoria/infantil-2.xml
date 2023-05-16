@@ -115,7 +115,7 @@
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=zoomoo-kids?url=https%3A%2F%2Fplayertv.net%2F%2Ftv.php?c=zoomoo%2F</page></regex>
+<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=zoomoo-kids?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fzoomookids%2F</page></regex>
 <thumbnail>https://i.postimg.cc/nh5PkBWz/zoomoo-kids.png</thumbnail>
 <fanart></fanart>
 <info>Zoomoo Kids é um canal infantil fundado em 11 de setembro de 2013, pertencente as empresas Blue Ant Media, do Canadá, da Beach House Pictures, de Cingapura, e da Natural History New Zealand, da Nova Zelândia. Sua transmissão foi iniciada na SKY, canal 103. É um canal infantil de televisão por assinatura.</info>
