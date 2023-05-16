@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[B][COLOR white]GLOBO NEWS[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fglobonews%2F</page></regex>
+<thumbnail>https://i.postimg.cc/GmdqJ95y/globo-news.png</thumbnail>
+<fanart></fanart>
+<info>Globo News é um canal de televisão por assinatura brasileiro sediado no Rio de Janeiro, capital do estado brasileiro homônimo e que transmite uma programação jornalística durante as 24 horas do dia. O canal foi inaugurado em 15 de outubro de 1996 pela programadora Globosat.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD NEWS[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Frecordnews%2F</page></regex>
+<thumbnail>https://i.postimg.cc/ZYNcGrkN/record-news.png</thumbnail>
+<fanart></fanart>
+<info>Record News é um canal de televisão comercial aberto brasileiro, com a programação dedicada principalmente ao telejornalismo, pertencente ao Grupo Record.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND NEWS[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fbandnews%2F</page></regex>
+<thumbnail>https://i.postimg.cc/sD9JXsgD/band-news.png</thumbnail>
+<fanart></fanart>
+<info>Band News TV é um canal de televisão brasileiro de notícias 24 horas sediado em São Paulo, capital do estado brasileiro homônimo, e que foi inaugurado no dia 19 de março de 2001 pelo Grupo Bandeirantes de Comunicação. Sendo o segundo canal de notícias no Brasil. É o terceiro canal de notícias mais visto no Brasil.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]CNN BRASIL[/COLOR][/B]</title>
+<link>$doregex[resolver]</link>
+<regex><name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcnnbrasil%2F</page></regex>
+<thumbnail>https://i.postimg.cc/hvmpMmn9/cnn-brasil.png</thumbnail>
+<fanart></fanart>
+<info>CNN Brasil é um canal de notícias através de televisão por assinatura brasileiro de propriedade da Warner Media, uma subsidiária da AT&amp;T. Licenciada pela rede de notícias homônima estadunidense, foi inaugurada em 2020 pelo proprietário da mídia e da MRV Engenharia Rubens Menin, e pelo ex-diretor de jornalismo da RecordTV Douglas Tavolaro, como um canal de notícias 24 horas.[1] Sua sede fica na Avenida Paulista, em São Paulo,[2] com filiais no Rio de Janeiro e em Brasília, além de filiais internacionais, com cerca de 400 jornalistas.</info>
+</item>

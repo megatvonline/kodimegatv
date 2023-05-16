@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[B][COLOR white]REDE BRASIL[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]REDE BRASIL[/COLOR][/B]&amp;url=https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1658903474.m3u8</link>
+<thumbnail>https://i.postimg.cc/NjqcW2Wb/rede-brasil.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR white]TV CULTURA[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]TV CULTURA[/COLOR][/B]&amp;url=https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w680748249.m3u8</link>
+<thumbnail>https://i.postimg.cc/qv7scSG0/tv-cultura.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
