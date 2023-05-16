@@ -5,7 +5,7 @@
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=discovery-channel?url=https://futemax.app/assistir_no_geralcdn.php?canal=discoverysd&amp;pasta=live&amp;pasta=live%2F</page></regex>
+<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=discovery-channel?url=https://futemax.app/assistir_no_geralcdn.php?canal=discoverysd&amp;pasta=live%2F</page></regex>
 <thumbnail>https://i.postimg.cc/YSg8BpHz/discovery-channel.png</thumbnail>
 <fanart></fanart>
 <info>Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
@@ -60,7 +60,7 @@
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=discovery-home-health?url=https://futemax.app/assistir_no_geralcdn.php?canal=discoverysd&amp;pasta=live&amp;pasta=live%2F</page></regex>
+<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=discovery-home-health?url=https://futemax.app/assistir_no_geralcdn.php?canal=discoveryhomehealthsd&amp;pasta=live%2F</page></regex>
 <thumbnail>https://i.postimg.cc/2Sjf5K6W/discovery-home-health.png</thumbnail>
 <fanart></fanart>
 <info>Discovery Home &amp; Health é um canal de TV por assinatura dedicado à beleza, bem estar e a vida em família. O Discovery Home &amp; Health apresenta uma programação diversificada, englobando temas como beleza, moda, saúde, programas cientificos entre outros</info>
@@ -71,7 +71,7 @@
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=investigacao-discovery?url=https://futemax.app/assistir_no_geralcdn.php?canal=idsd&amp;pasta=live&amp;pasta=live%2F</page></regex>
+<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=investigacao-discovery?url=https://futemax.app/assistir_no_geralcdn.php?canal=idsd&amp;pasta=live%2F</page></regex>
 <thumbnail>https://i.postimg.cc/gkJpK7VK/investigacao-discovery.png</thumbnail>
 <fanart></fanart>
 <info>ID é a versão brasileira de ID, um canal de televisão por assinatura estadunidense pertencente ao Discovery Inc. Assim como o canal originário, sua programação apresenta programas em estilo documental que abordam crimes reais, incluindo investigações criminais, criminalística, e outros documentários focados em crimes.</info>
@@ -104,7 +104,7 @@
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=animal-planet?url=https://futemax.app/assistir_no_geralcdn.php?canal=animalplanetsd&amp;pasta=live&amp;pasta=live%2F</page></regex>
+<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=animal-planet?url=https://futemax.app/assistir_no_geralcdn.php?canal=animalplanetsd&amp;pasta=live%2F</page></regex>
 <thumbnail>https://i.postimg.cc/Hk38JRt1/animal-planet.png</thumbnail>
 <fanart></fanart>
 <info>Animal Planet é um canal de televisão por assinatura com sede nos Estados Unidos da América e transmitido também para a América latina. Estabelecido pela primeira vez em 1 de outubro de 1996, a rede é dedicada principalmente a séries e documentários sobre animais selvagens e animais domésticos.</info>
