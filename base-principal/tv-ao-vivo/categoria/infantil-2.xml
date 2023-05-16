@@ -27,7 +27,7 @@
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=gloobinho?url=https%3A%2F%2Fplayertv.net%2F%2Ftv.php?c=globinho%2F</page></regex>
+<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=gloobinho?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fgloobinho%2F</page></regex>
 <thumbnail>https://i.postimg.cc/tCY5shnr/gloobinho.png</thumbnail>
 <fanart></fanart>
 <info>Gloobinho é um canal educacional brasileiro canal de TV paga pertencente a Globosat. Baseado em Gloob, o canal é destinado a crianças de 2 a 5 anos.</info>
