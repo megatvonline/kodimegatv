@@ -38,7 +38,7 @@
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>h</page></regex>
+<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=cartoonito?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcartoonito%2F</page></regex>
 <thumbnail>https://i.postimg.cc/jjpbjzMf/cartoonito.png</thumbnail>
 <fanart></fanart>
 <info>Cartoonito é um canal de televisão digital, cabo e satélite americana que é de propriedade da subsidiária Warner Bros. Global Kids &amp; Young Adults de propriedade da Warner Bros. Discovery.</info>
