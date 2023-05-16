@@ -82,7 +82,7 @@
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=nickelodeon?url=https%3A%2F%2Fplayertv.net%2F%2Ftv.php?c=nick%2F</page></regex>
+<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=nickelodeon?url=https://futemax.app/assistir_no_geralcdn.php?canal=nickelodeonsd&amp;pasta=live&amp;pasta=live%2F</page></regex>
 <thumbnail>https://i.postimg.cc/ht1GQ8Pk/nick.png</thumbnail>
 <fanart></fanart>
 <info>Nickelodeon, geralmente abreviada como "Nick", é uma empresa de entretenimento juvenil. Construiu um negócio global e diversificado, colocando crianças e adolescentes em primeiro lugar em tudo o que faz.</info>
@@ -93,7 +93,7 @@
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=nick-jr?url=https%3A%2F%2Fplayertv.net%2F%2Ftv.php?c=nick-jr%2F</page></regex>
+<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=nick-jr?url=https://futemax.app/assistir_no_geralcdn.php?canal=nickjrsd&amp;pasta=live&amp;pasta=live%2F</page></regex>
 <thumbnail>https://i.postimg.cc/7ZMktBg6/nick-jr.png</thumbnail>
 <fanart></fanart>
 <info>Nick Jr. Brasil é um canal de televisão paga com 24 horas dedicado às crianças em fase pré-escolar que promove o desenvolvimento infantil ao usar a filosofia “brincar aprendendo”.</info>
