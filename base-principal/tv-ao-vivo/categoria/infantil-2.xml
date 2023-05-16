@@ -12,11 +12,11 @@
 </item>
 
 <item>
-<title>[B][COLOR white]GLOOB[/COLOR][/B]</title>
+<title>[B][COLOR white]GLOO[/COLOR][/B]</title>
 <link>$doregex[resolver]</link>
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=gloob?url=https%3A%2F%2Fsinalpublico.com%2Fplayer3%2Fch.php?canal=gloob%2F</page></regex>
+<page>https://apiresolver.kodimegatv.repl.co/resolver/ch=gloob?url=https%3A%2F%2Fdirectvxx.com%2Fplayer%2Fcanais.php?canal=GLOOBHD%2F</page></regex>
 <thumbnail>https://i.postimg.cc/SKB0PSF4/gloob.png</thumbnail>
 <fanart></fanart>
 <info>Gloob é um canal de televisão por assinatura brasileiro que pertence a Globosat lançado no dia 15 de junho de 2012 direcionado ao público infantil. Seu nome é um anagrama da palavra Globo, invertendo a letra "O" antes do "B". Também transmite sua programação em high definition em versão simulcast.</info>
