@@ -24,4 +24,13 @@
 <info></info>
 </item>
 
+<item>
+<title>[B][COLOR white]TV RBC[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]TV RBC[/COLOR][/B]&amp;url=https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8</link>
+<thumbnail>https://i.postimg.cc/YCnks36k/tv-rbc.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
 
