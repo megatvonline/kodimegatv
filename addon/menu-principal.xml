@@ -7,65 +7,41 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/categoria/todos-canais.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/base-principal/menu-tv-ao-vivo-17.xml</externallink>
+<externallink>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/matrix/base-principal/menu-tv-ao-vivo-17.xml</externallink>
 <fanart></fanart>
 <info>[B][COLOR firebrick]Aviso[/COLOR][/B] : [B][COLOR white]Canais[/COLOR][/B] [B][COLOR gold]F4mtester[/COLOR][/B] [B][COLOR white]rodam melhor no[/COLOR][/B] [B][COLOR blue]kodi 18[/COLOR][/B].[B][COLOR blue]9[/COLOR][/B], [B][COLOR blue]kodi 19+[/COLOR][/B] [B][COLOR white]pode ter instabilidade nesses canais[/COLOR][/B].</info>
 </channel>
     
 <channel>
-<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]Desenhos 24 Horas[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR blue]STREAMINGS[/COLOR][/B] [B][COLOR white]ORIGINAIS[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/kodimegatv/megatv/master/desenhos-24-horas</externallink>
+<externallink>https://</externallink>
 <fanart></fanart>
 <info>Mega TV</info>
 </channel>  
   
 <channel>
-<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]Séries 24 Horas[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/kodimegatv/megatv/master/series-24-horas</externallink>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>Mega TV</info>
+</channel>
+          
+<channel>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]RÁDIOS FM[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
 <fanart></fanart>
 <info>Mega TV</info>
 </channel>
     
 <channel>
-<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]Filmes[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/kodimegatv/megatv/master/menu-filmes</externallink>
-<fanart></fanart>
-<info>Mega TV</info>
-</channel> 
-  
-<channel>
-<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]Séries Animadas[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/kodimegatv/megatv/master/menu-series-animadas</externallink>
-<fanart></fanart>
-<info>Mega TV</info>
-</channel>
-    
-<channel>
-<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]Rádios FM[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/kodimegatv/megatv/master/radios-fm</externallink>
-<fanart></fanart>
-<info>Mega TV</info>
-</channel>
-    
-<channel>
-<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]Sound[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/sound.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodimegatv/megatv/master/sound</externallink>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]SOUND[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/sound.png</thumbnail>
+<externallink>https://</externallink>
 <fanart></fanart>
 <info>Mega TV</info>
 </channel>        
     
-<channel>
-<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]Cine SKY 24 Horas[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/cine-sky.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodimegatv/megatv/master/cine-sky-24-horas</externallink>
-<fanart></fanart>
-<info>Mega TV</info>
-</channel>   
-
 </channels>
