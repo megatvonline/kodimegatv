@@ -7,9 +7,25 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]SERVIDOR 1[/COLOR][/B] | [B][COLOR gold]ALTERNATIVOS[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/XYGPFRmy/tv-online.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/matrix/base-principal/tv-ao-vivo/categoria/menu-tv.xml</externallink>
+<externallink>https://</externallink>
 <fanart></fanart>
 <info>[B][COLOR white]SERVIDOR 1[/COLOR][/B] | [B][COLOR gold]ALTERNATIVOS[/COLOR][/B], Esse é um Servidor Dedicado a TV Online, Pode Apresentar Problemas é Necessário [B][COLOR gold]Aguardar...[/COLOR][/B]</info>
 </channel>
+    
+<channel>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]SERVIDOR 2[/COLOR][/B] | [B][COLOR gold]ALTERNATIVOS[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/XYGPFRmy/tv-online.png</thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[B][COLOR white]SERVIDOR 2[/COLOR][/B] | [B][COLOR gold]ALTERNATIVOS[/COLOR][/B], Esse é um Servidor Dedicado a TV Online, Pode Apresentar Problemas é Necessário [B][COLOR gold]Aguardar...[/COLOR][/B]</info>
+</channel> 
+  
+<channel>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]SERVIDOR 3[/COLOR][/B] | [B][COLOR gold]ALTERNATIVOS[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/XYGPFRmy/tv-online.png</thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[B][COLOR white]SERVIDOR 3[/COLOR][/B] | [B][COLOR gold]ALTERNATIVOS[/COLOR][/B], Esse é um Servidor Dedicado a TV Online, Pode Apresentar Problemas é Necessário [B][COLOR gold]Aguardar...[/COLOR][/B]</info>
+</channel>  
 
 </channels>
