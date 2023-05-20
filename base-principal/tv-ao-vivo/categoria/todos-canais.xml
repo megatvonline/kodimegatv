@@ -6,7 +6,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fgloborj%2F</page></regex>
-<thumbnail>https://i.postimg.cc/prXrbbrL/rede-globo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/rede-globo.png</thumbnail>
 <fanart></fanart>
 <info>Rede Globo é uma rede de televisão comercial aberta brasileira com sede na cidade do Rio de Janeiro. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior.</info>
 </item>
@@ -17,7 +17,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fglobosp%2F</page></regex>
-<thumbnail>https://i.postimg.cc/prXrbbrL/rede-globo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/rede-globo.png</thumbnail>
 <fanart></fanart>
 <info>TV Globo São Paulo é uma emissora de televisão brasileira sediada em São Paulo, capital do estado homônimo.</info>
 </item>
@@ -28,7 +28,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fglobonordeste%2F</page></regex>
-<thumbnail>https://i.postimg.cc/prXrbbrL/rede-globo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/rede-globo.png</thumbnail>
 <fanart></fanart>
 <info>TV Globo Nordeste é uma emissora de televisão brasileira sediada no Recife, capital do estado de Pernambuco. Opera no canal 13 e é uma emissora própria da Rede Globo.</info>
 </item>
@@ -39,7 +39,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fsbtsp%2F</page></regex>
-<thumbnail>https://i.postimg.cc/wTqLHZZJ/sbt.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/sbt.png</thumbnail>
 <fanart></fanart>
 <info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
 </item>
@@ -50,7 +50,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fband%2F</page></regex>
-<thumbnail>https://i.postimg.cc/rmSThh9F/band.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/band.png</thumbnail>
 <fanart></fanart>
 <info>Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes de Comunicação. Entrou no ar no dia 13 de maio de 1967, em São Paulo, SP, pelo canal 13 VHF</info>
 </item>
@@ -61,7 +61,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Frecord%2F</page></regex>
-<thumbnail>https://i.postimg.cc/W1RV0cVq/record-tv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/record-tv.png</thumbnail>
 <fanart></fanart>
 <info>Record TV, é uma rede de televisão comercial aberta brasileira com sede na cidade de São Paulo. Fundada em 27 de setembro de 1953 pelo empresário e comunicador Paulo Machado de Carvalho, a sua criação remonta à chegada da televisão no Brasil, quando Paulo Machado se interessou pelo novo meio de comunicação e quis ampliar seu conglomerado midiático (que incluía diversas estações de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
@@ -72,7 +72,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fredetv%2F</page></regex>
-<thumbnail>https://i.postimg.cc/T2ZJ6tGJ/rede-tv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/rede-tv.png</thumbnail>
 <fanart></fanart>
 <info>Rede TV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
 </item>
@@ -83,7 +83,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftvculturahd%2F</page></regex>
-<thumbnail>https://i.postimg.cc/qv7scSG0/tv-cultura.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/tv-cultura.png</thumbnail>
 <fanart></fanart>
 <info>TV Cultura é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo.</info>
 </item>
@@ -94,7 +94,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftvbrasil%2F</page></regex>
-<thumbnail>https://i.postimg.cc/hjqgqWk6/tv-brasil.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/tv-brasil.png</thumbnail>
 <fanart></fanart>
 <info>TV Brasil é a rede de televisão pública do Poder Executivo Brasileiro. Pertence à Empresa Brasil de Comunicação, conglomerado de mídia do governo do país.</info>
 </item>
@@ -105,7 +105,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fredebrasil%2F</page></regex>
-<thumbnail>https://i.postimg.cc/NjqcW2Wb/rede-brasil.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/rede-brasil.png</thumbnail>
 <fanart></fanart>
 <info>Rede Brasil de Televisão é uma rede de televisão aberta brasileira. Foi inaugurada em 7 de abril de 2007, e é presidida pelo advogado tributarista Marcos Tolentino. A rede é oriunda de Campo Grande, capital do estado de Mato Grosso do Sul, e está sediada em São Paulo, capital do estado homônimo.</info>
 </item>
@@ -116,7 +116,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftvgazetahd%2F</page></regex>
-<thumbnail>https://i.postimg.cc/T2bGQcsh/tv-gazeta.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/tv-gazeta.png</thumbnail>
 <fanart></fanart>
 <info>TV Gazeta é uma rede de televisão brasileira sediada na cidade de São Paulo. Foi inaugurada em 25 de janeiro de 1970 e pertence à Fundação Cásper Líbero, uma instituição sem fins lucrativos que também administra a Gazeta FM, os portais Gazeta Esportiva e Gazeta Press, além da Faculdade Cásper Líbero.</info>
 </item>
@@ -127,7 +127,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcancaonova%2F</page></regex>
-<thumbnail>https://i.postimg.cc/RFrp0wLb/cancao-nova.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/cancao-nova.png</thumbnail>
 <fanart></fanart>
 <info>Canção Nova é uma comunidade católica brasileira fundada pelo Monsenhor Jonas Abib no ano de 1978, seguindo as linhas da Renovação Carismática Católica.</info>
 </item>
@@ -138,7 +138,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fviva%2F</page></regex>
-<thumbnail>https://i.postimg.cc/nLF9rC1V/viva.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/viva.png</thumbnail>
 <fanart></fanart>
 <info>Viva é um canal de televisão por assinatura brasileiro, que faz parte da programadora Globosat. Foi inaugurado no dia 18 de maio de 2010 e está presente nas operadoras de televisão a cabo e satélite NET, TV Alphaville, Sky, Claro TV, Vivo TV, Oi TV e Algar TV.</info>
 </item>
@@ -149,7 +149,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fmultishow%2F</page></regex>
-<thumbnail>https://i.postimg.cc/PxK4JgD9/multishow.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/multishow.png</thumbnail>
 <fanart></fanart>
 <info>Multishow é um canal de televisão por assinatura da programadora de televisão brasileira Globosat. No ar desde 19 de outubro de 1991, tem uma ampla gama de estilos na programação na área do entretenimento.</info>
 </item>
@@ -160,7 +160,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fgnt%2F</page></regex>
-<thumbnail>https://i.postimg.cc/63QZjy7b/gnt.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/gnt.png</thumbnail>
 <fanart></fanart>
 <info>GNT é um canal de televisão por assinatura brasileiro. Foi criada em 19 de outubro de 1991 com o nome de Globosat News Television, um canal que transmitia notícias.</info>
 </item>
@@ -171,7 +171,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fmtvbrasil%2F</page></regex>
-<thumbnail>https://i.postimg.cc/50NPBBwX/mtv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/mtv.png</thumbnail>
 <fanart></fanart>
 <info>MTV Brasil foi uma rede de televisão brasileira, pertencente ao Grupo Abril e dedicada ao público jovem. Nasceu no dia 20 de outubro de 1990 como a primeira rede de televisão segmentada a ser transmitida no sinal aberto, sendo a versão nacional da MTV.</info>
 </item>
@@ -182,7 +182,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fbis%2F</page></regex>
-<thumbnail>https://i.postimg.cc/XJVSBBHJ/bis.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/bis.png</thumbnail>
 <fanart></fanart>
 <info>BIS é o primeiro canal de televisão por assinatura com sua programação 100% dedicada à música, antiga faixa do canal GloboSAT HD, que é formado por um mix de 24 horas de shows, documentários, biografias e séries musicais.</info>
 </item>
@@ -193,7 +193,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Feentertainment%2F</page></regex>
-<thumbnail>https://i.postimg.cc/3RdMZQh5/e-entertainment-television.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/e-entertainment-television.png</thumbnail>
 <fanart></fanart>
 <info>E! Entertainment Television (ou simplesmente E!) é um canal de televisão por assinatura de variedades, disponível nos Estados Unidos, Reino Unido, Irlanda, Itália, Austrália, Nova Zelândia, África do Sul, França, Tailândia, Indonésia, Malásia, Polônia, Grécia, Turquia, Sérvia, Montenegro, Eslovênia, Sri Lanka, Canadá, Brasil, Portugal, Albânia e Israel. Na América Latina e no Brasil, é distribuído pela HBO. Desde novembro de 2006, o canal é detido pela Comcast.</info>
 </item>
@@ -204,7 +204,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Flifetime%2F</page></regex>
-<thumbnail>https://i.postimg.cc/wxwHJFdd/lifetime.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/lifetime.png</thumbnail>
 <fanart></fanart>
 <info>Lifetime é um canal pago, estado-unidense de entretenimento, que faz parte do Lifetime Entertainment Services, uma subsidiária da A&amp;E Networks, que é de propriedade conjunta da Hearst Corporation, The Walt Disney Company e NBC Universal.</info>
 </item>
@@ -215,7 +215,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ffoodnetwork%2F</page></regex>
-<thumbnail>https://i.postimg.cc/vHSYRhPv/food-network.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/food-network.png</thumbnail>
 <fanart></fanart>
 <info>Food Network é um canal de televisão por assinatura dedicado a quem ama a arte da gastronomia. Desde a elaboração de diversos pratos, competições gastronômicas e lugares que levam na comida a cultura de diferentes países, a audiência é convidada a assistir aos mais variados programas.</info>
 </item>
@@ -226,7 +226,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftlc%2F</page></regex>
-<thumbnail>https://i.postimg.cc/9QmJ5PnJ/tlc-discovery.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/tlc-discovery.png</thumbnail>
 <fanart></fanart>
 <info>TLC Discovery é um canal de televisão que transmite para vários países da América Latina. Era originalmente conhecido como Discovery Travel &amp; Adventure Channel e apresentava mais programas relacionados a aventuras.</info>
 </item>
@@ -237,7 +237,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Farte1%2F</page></regex>
-<thumbnail>https://i.postimg.cc/T3prGkT2/arte-1.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/arte-1.png</thumbnail>
 <fanart></fanart>
 <info>Arte 1 é um canal de televisão por assinatura brasileiro operado pelo Grupo Bandeirantes de Comunicação e Grupo Nota do Tempo de Mídia e Produção. Foi inaugurado no dia 1 de dezembro de 2012 e exibe conteúdos sobre arte, música e documentários e filmes.</info>
 </item>
@@ -248,7 +248,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcanalcurta%2F</page></regex>
-<thumbnail>https://i.postimg.cc/6pmfGkMG/curta.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/curta.png</thumbnail>
 <fanart></fanart>
 <info>O Curta! é um canal de televisão por assinatura brasileiro fundado em 1 de novembro de 2012. É um canal independente, dedicado às artes, cultura e humanidades. Documentários em curta, média e longa-metragem predominam em sua programação, que traz também séries e cinema de ficção. O Curta!</info>
 </item>
@@ -259,7 +259,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcanaloff%2F</page></regex>
-<thumbnail>https://i.postimg.cc/bNSMJRyg/canal-off.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/canal-off.png</thumbnail>
 <fanart></fanart>
 <info>Canal OFF é um canal de TV por assinatura brasileiro lançado pela Globosat, tendo como público alvo jovens e adultos. Estreou no dia 8 de dezembro de 2011 sendo que só é exibido em HDTV e Widescreen, estando disponível na Claro TV, NET, Sky, Vivo TV, Roma Cabo.</info>
 </item>
@@ -270,7 +270,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ffishtv%2F</page></regex>
-<thumbnail>https://i.postimg.cc/Fs1ZsFZQ/fish-tv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/fish-tv.png</thumbnail>
 <fanart></fanart>
 <info>Fish TV é um canal de televisão por assinatura brasileiro dedicado a pesca esportiva. O canal foi lançado em 29 de junho de 2012 em toda América Latina. A programação do canal é 100% sobre a pesca.</info>
 </item>
@@ -281,7 +281,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fwoohoo%2F</page></regex>
-<thumbnail>https://i.postimg.cc/ryvsZWJb/woohoo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/woohoo.png</thumbnail>
 <fanart></fanart>
 <info>Woohoo é um canal de TV por assinatura brasileiro, voltado para os esportes de ação, música e comportamento jovem. O canal esta disponível em várias operadoras de TV por assinatura brasileiras. Em Portugal foi lançado no início de 2013 em exclusivo na ZON.</info>
 </item>
@@ -292,7 +292,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fmodoviagem%2F</page></regex>
-<thumbnail>https://i.postimg.cc/8zNLf1d5/modo-viagem.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/modo-viagem.png</thumbnail>
 <fanart></fanart>
 <info>Modo Viagem é um canal de televisão por assinatura brasileiro lançado em 2 de dezembro de 2007 que transmite sinal em alta definição, atualmente seguindo o conceito de superstation. Reúne vários programas do gênero de viagens e bem-estar.</info>
 </item>
@@ -303,7 +303,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcomedycentral%2F</page></regex>
-<thumbnail>https://i.postimg.cc/SNX6bTSS/comedy-central.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/comedy-central.png</thumbnail>
 <fanart></fanart>
 <info>Comedy Central é um canal pago de humor dos Estados Unidos famoso pelos seus programas de comédia. Pertence a Americana Viacom Media Networks. Entre os destaques de sua programação está a animação South Park célebre pelo seu humor politicamente incorreto.</info>
 </item>
@@ -314,7 +314,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fstarchannel%2F</page></regex>
-<thumbnail>https://i.postimg.cc/7PXSVR3K/star-channel.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/star-channel.png</thumbnail>
 <fanart></fanart>
 <info>Star Channel Broadcasting Company, normalmente referida como FOX e estilizado como FOX, é uma emissora de televisão com sede nos Estados Unidos.</info>
 </item>
@@ -325,7 +325,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fmegapix%2F</page></regex>
-<thumbnail>https://i.postimg.cc/Hxz86Jyr/megapix.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/megapix.png</thumbnail>
 <fanart></fanart>
 <info>Megapix é um canal de televisão por assinatura da GloboSat. É voltado exclusivamente para filmes dublados, faz exibição de títulos na segunda janela da TV por assinatura.[4] Filmes que geralmente foram lançados pelo Telecine ou HBO, mas que estreiam com exclusividade nos pacotes básicos pelo Megapix</info>
 </item>
@@ -336,7 +336,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ffx%2F</page></regex>
-<thumbnail>https://i.postimg.cc/BQQBf3ZW/fx.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/fx.png</thumbnail>
 <fanart></fanart>
 <info>FX é um canal de televisão por assinatura brasileiro, de propriedade da Walt Disney Television, uma divisão da The Walt Disney Company. O canal conta com uma grade de programação composta por séries atuais e populares como American Dad e Uma Família da Pesada e filmes de ação.</info>
 </item>
@@ -347,7 +347,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbo%2F</page></regex>
-<thumbnail>https://i.postimg.cc/k4Sq5Lnq/hbo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/hbo.png</thumbnail>
 <fanart></fanart>
 <info>HBO (abreviação de Home Box Office) é um canal de televisão por assinatura norte-americano, de propriedade da Warner Media (uma subsidiária da AT&amp;T). Em março de 2011, a sua programação era assistida por 28,2 milhões de assinantes nos Estados Unidos, tornando-se a segunda maior rede premium de canais na América do Norte, atrás apenas da Encore, que tem um público de 32,8 milhões.[1] Além dos EUA, a HBO é transmitida para pelo menos 50 países.</info>
 </item>
@@ -358,7 +358,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbo2%2F</page></regex>
-<thumbnail>https://i.postimg.cc/vZDRBCzk/hbo-2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/hbo-2.png</thumbnail>
 <fanart></fanart>
 <info>HBO 2, é um canal de televisão por assinatura da rede HBO que exibe 24 horas de filmes em versão dublada os principais filmes apresentados pela HBO e séries exclusivas, sem intervalos comerciais. A partir de julho de 2009, a HBO 2 ganhou sua independência.</info>
 </item>
@@ -369,7 +369,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhboplus%2F</page></regex>
-<thumbnail>https://i.postimg.cc/8P5XBM6r/hbo-plus.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/hbo-plus.png</thumbnail>
 <fanart></fanart>
 <info>HBO Plus *e, versão multiplex do original, foi um canal pago que exibia a programação com 3 horas de diferença. Por decisão de sua programadora, o canal deixou de existir no dia 31/12/2018, passando a ter a programação normal no HBO Plus.</info>
 </item>
@@ -380,7 +380,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbofamily%2F</page></regex>
-<thumbnail>https://i.postimg.cc/wTZ2XPzS/hbo-family.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/hbo-family.png</thumbnail>
 <fanart></fanart>
 <info>HBO Family é um canal de televisão por assinatura originado da HBO. A HBO Family se caracteriza pela leveza da programação, que vai desde os filmes até o visual das chamadas com uma locução composta de uma voz tranquila e sem pressa durante os períodos que os filmes não estão em execução, mostrando ao telespectador as futuras atrações.</info>
 </item>
@@ -391,7 +391,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbosignature%2F</page></regex>
-<thumbnail>https://i.postimg.cc/SKrcvt0Q/hbo-signature.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/hbo-signature.png</thumbnail>
 <fanart></fanart>
 <info>HBO Signature é um canal de televisão por assinatura pertencente a Home Box Office lançado em 1991 nos Estados Unidos. O canal foi lançado primeiramente no Brasil em 1 de fevereiro de 2012 para depois ser lançado na América Latina. No Brasil o canal substituiu o HBO Family *e, com sinal exclusivo para o país,[3] sendo exibido com áudio original e legendas sem intervalos comerciais.</info>
 </item>
@@ -402,7 +402,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhboxtreme%2F</page></regex>
-<thumbnail>https://i.postimg.cc/1RTw2qdF/hbo-xtreme.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/hbo-extreme.png</thumbnail>
 <fanart></fanart>
 <info>HBO Xtreme é um canal de televisão por assinatura, que foi lançado em 2000 como Cinemax Prime. O canal tem atualmente como foco o público adulto masculino. O canal chamava-se MaxPrime de setembro de 2003 até 2020.</info>
 </item>
@@ -413,7 +413,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbomundi%2F</page></regex>
-<thumbnail>https://i.postimg.cc/MGT1gmzy/hbo-mundi.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/hbo-mundi.png</thumbnail>
 <fanart></fanart>
 <info>HBO Mundi é um canal premium de televisão por assinatura que oferecem filmes, apresentações especiais e outros serviços aos consumidores. Foi lançado em 1º de junho de 2010, substituindo o Cinemax *e. O HBO Mundi é operado pela HBO Latin America Group, uma subsidiária da Warner Media.</info>
 </item>
@@ -424,7 +424,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhbopop%2F</page></regex>
-<thumbnail>https://i.postimg.cc/MG2vm0v6/hbo-pop.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/hbo-pop.png</thumbnail>
 <fanart></fanart>
 <info>HBO POP é um canal de televisão por assinatura pertencente a HBO, que substituiu os anteriores MAX HD e MAX UP. Em 31 de outubro de 2019, com o anúncio da unificação dos canais Max para HBO, o canal Max UP foi renomeado para HBO Pop em 1° de fevereiro de 2020.</info>
 </item>
@@ -435,7 +435,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fwarnerchannel%2F</page></regex>
-<thumbnail>https://i.postimg.cc/XqrmsCzL/warner-tv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/warner-tv.png</thumbnail>
 <fanart></fanart>
 <info>Warner TV é um canal de televisão por assinatura que é transmitido na América Latina e no Sudeste da Ásia pertencente a Warner Bros. Entertainment A maior parte de sua programação tem o áudio original em Inglês com legendas em Espanhol, possuindo também poucos programas dublados</info>
 </item>
@@ -446,7 +446,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Funiversalchannel%2F</page></regex>
-<thumbnail>https://i.postimg.cc/RF4vpX7R/universal-tv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/universal-tv.png</thumbnail>
 <fanart></fanart>
 <info>Universal TV é um canal de televisão por assinatura internacional, disponível em diversos países do mundo, incluindo o Brasil. O canal é especializado em séries de televisão de diversos gêneros, dentre os quais, principalmente, thrillers, dramas, horror crime e erótico.</info>
 </item>
@@ -457,7 +457,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fspace%2F</page></regex>
-<thumbnail>https://i.postimg.cc/yN5FF30s/space.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/space.png</thumbnail>
 <fanart></fanart>
 <info>Space é um canal de televisão por assinatura da América Latina. É um canal pertencente à Turner Broadcasting System, subsidiária da Warner Media. Por exibir filmes dos gêneros de ação, ficção científica, policial e terror, e séries do gênero policial e suspense é voltado para mulheres e homens acima de 18 anos de idade.</info>
 </item>
@@ -468,7 +468,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fstudiouniversal%2F</page></regex>
-<thumbnail>https://i.postimg.cc/q707WJ0y/studio-universal.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/studio-universal.png</thumbnail>
 <fanart></fanart>
 <info>Stúdio Universal é um canal de televisão por assinatura com programação de filmes e séries pertencente ao grupo Universal Networks International.[4] Sua programação foca nos filmes do catálogo da Universal Studios, especiais como filmes classificados por ator, diretor entre outros. No Brasil o Studio Universal é programado pela Globosat desde 2012.</info>
 </item>
@@ -479,7 +479,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fsony%2F</page></regex>
-<thumbnail>https://i.postimg.cc/ncHQ9GNq/canal-sony.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/canal-sony.png</thumbnail>
 <fanart></fanart>
 <info>Sony Channel é um canal de entretenimento geral de propriedade da Sony Pictures Entertainment, geralmente abreviado para Canal Sony em português e espanhol.</info>
 </item>
@@ -490,7 +490,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcinemax%2F</page></regex>
-<thumbnail>https://i.postimg.cc/t43GxFPG/cinemax.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/cinemax.png</thumbnail>
 <fanart></fanart>
 <info>Cinemax é um canal de televisão por assinatura de filmes, que pertence a HBO, uma subsidiária da Warner Media Inc. Foi lançado no Brasil no dia 1º de outubro de 1997.</info>
 </item>
@@ -501,7 +501,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftnt%2F</page></regex>
-<thumbnail>https://i.postimg.cc/TwJ3TZdF/tnt.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/tnt.png</thumbnail>
 <fanart></fanart>
 <info>TNT (abreviação para Turner Network Television), é um canal de televisão por assinatura especializado em filmes e séries. O canal original foi criado pelo magnata da mídia Ted Turner em 1988 nos Estados Unidos.</info>
 </item>
@@ -512,7 +512,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftntseries%2F</page></regex>
-<thumbnail>https://i.postimg.cc/sDNDfPzj/tnt-series.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/tnt-series.png</thumbnail>
 <fanart></fanart>
 <info>TNT Séries é um canal de televisão por assinatura especializado em séries, que chegou ao Brasil para substituir o Glitz*. A programação é exibida em áudio dublado e legendado, com legendas selecionáveis em português.</info>
 </item>
@@ -523,7 +523,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fparamountchannel%2F</page></regex>
-<thumbnail>https://i.postimg.cc/nhS7J9RB/paramount-network.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/paramount-network.png</thumbnail>
 <fanart></fanart>
 <info>Paramount Network é um canal de televisão por assinatura americano pertencente à divisão Paramount Media Networks da Paramount Global. A sede da rede está localizada no estúdio Paramount Pictures em Los Angeles.</info>
 </item>
@@ -534,7 +534,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftbs%2F</page></regex>
-<thumbnail>https://i.postimg.cc/BbSXrq0X/tbs-brasil.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/tbs-brasil.png</thumbnail>
 <fanart></fanart>
 <info>TBS Brasil é uma rede brasileira de TV por assinatura pertencente a Warner Bros. Discovery, sendo a versão local do canal americano TBS. A rede é voltado para a comédia, filmes, e séries para a família, sendo o primeiro no país com estas características</info>
 </item>
@@ -545,7 +545,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftelecinepremium%2F</page></regex>
-<thumbnail>https://i.postimg.cc/BbS3CpWK/telecine-premium.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/telecine-premium.png</thumbnail>
 <fanart></fanart>
 <info>Telecine Premium é um canal de televisão brasileiro pertencente à Rede Telecine, transmitido pela TV por assinatura nas operadoras Vivo TV, NET, JET TV, Claro TV, Sky Brasil, Oi TV e Vivo DTH com a transmissão de filmes que geralmente são estreias inéditas na televisão brasileira, que já foram atrações de maior bilheteria, lançamentos de grande sucesso, ou até mesmo as mais recentes produções dos anos 90.</info>
 </item>
@@ -556,7 +556,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftelecinepipoca%2F</page></regex>
-<thumbnail>https://i.postimg.cc/13nQM4dJ/telecine-pipoca.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/telecine-pipoca.png</thumbnail>
 <fanart></fanart>
 <info>Telecine Pipoca é um canal de televisão por assinatura brasileiro que exibe 24 horas de filmes em versão dublada os principais filmes apresentados pelo Telecine Premium, Telecine Action, Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comerciais de 2 minutos.</info>
 </item>
@@ -567,7 +567,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftelecineaction%2F</page></regex>
-<thumbnail>https://i.postimg.cc/3R3zMwLM/telecine-action.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/telecine-action.png</thumbnail>
 <fanart></fanart>
 <info>Telecine Action é um canal de televisão por assinatura brasileiro transmitido pelas operadoras NET, SKY, Claro TV, Vivo TV, Oi TV, CTBC TV e TV Alphaville que dá destaque à transmissão de antigos e novos filmes de ação. Já que o canal é dedicado a exibir filmes de ação, logo o nome do canal.</info>
 </item>
@@ -578,7 +578,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftelecinetouch%2F</page></regex>
-<thumbnail>https://i.postimg.cc/66PwZdjy/telecine-touch.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/telecine-touch.png</thumbnail>
 <fanart></fanart>
 <info>Telecine Touch é um canal de televisão por assinatura brasileiro que exibe uma programação com gêneros de filmes derivados do cinema emotivo, grandes romances, biografias e dramas, com um intervalo comercial de 2 minutos.</info>
 </item>
@@ -589,7 +589,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftelecinefun%2F</page></regex>
-<thumbnail>https://i.postimg.cc/434NPXzd/telecine-fun.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/telecine-fun.png</thumbnail>
 <fanart></fanart>
 <info>Telecine Fun é um canal de televisão por assinatura brasileiro pertencente aos canais da Rede Telecine. O canal exibe filmes de comédia, comédia romântica e animações, originalmente no idioma original com legendas, mas desde 2012 em versão dublada.</info>
 </item>
@@ -600,7 +600,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftelecinecult%2F</page></regex>
-<thumbnail>https://i.postimg.cc/sDyF7wPf/telecine-cult.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/telecine-cult.png</thumbnail>
 <fanart></fanart>
 <info>Telecine Cult é um canal de televisão por assinatura brasileiro que exibe filmes clássicos, filmes independentes, filmes temáticos, filmes raros e filmes de arte com produções europeias, asiáticas, latinas, etc. O canal exibe todos os filmes sem os eventuais intervalos comerciais.</info>
 </item>
@@ -611,7 +611,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftcm%2F</page></regex>
-<thumbnail>https://i.postimg.cc/xTSBvcPv/tcm.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/tcm.png</thumbnail>
 <fanart></fanart>
 <info>TCM é um canal de televisão dirigida ao público acima de 35 anos e tem como principais características exibir filmes da época de ouro do cinema. Inicialmente, o TCM apresentava produções dos anos 30 aos anos 70, sempre sem cortes e sem intervalos comerciais.</info>
 </item>
@@ -622,7 +622,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Faxn%2F</page></regex>
-<thumbnail>https://i.postimg.cc/6Q7HJX06/axn.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/axn.png</thumbnail>
 <fanart></fanart>
 <info>AXN é um canal de televisão por assinatura de propriedade da Sony Pictures Entertainment, que foi inicialmente lançado a 22 de maio de 1997 na Ásia com o nome de Action Extreme Channel. No entanto, por razões comerciais e para facilitar a sua difusão pelo público, o nome é alterado para AXN.</info>
 </item>
@@ -633,7 +633,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fsyfy%2F</page></regex>
-<thumbnail>https://i.postimg.cc/Jnst5TM2/syfy.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/syfy.png</thumbnail>
 <fanart></fanart>
 <info>Syfy é um canal de televisão por assinatura. Sua programação é dedicada à ficção científica, fantasia, terror e paranormal.</info>
 </item>
@@ -644,7 +644,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Famcbrasil%2F</page></regex>
-<thumbnail>https://i.postimg.cc/rmxQsN3v/amc.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/amc.png</thumbnail>
 <fanart></fanart>
 <info>AMC é um canal de televisão por assinatura que transmite principalmente filmes. O nome do canal era originalmente um acrônimo de American Movie Classics. No entanto, desde 2003 o nome completo não recebeu mais ênfase, como resultado de uma grande mudança na programação.</info>
 </item>
@@ -655,7 +655,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Faemundo%2F</page></regex>
-<thumbnail>https://i.postimg.cc/prnxp4RP/aie.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/aie.png</thumbnail>
 <fanart></fanart>
 <info>A&amp;E é uma rede de televisão transmitida por servidores de televisão a cabo ou satélite. Seus edifícios empresariais principais se localizam em Manhattan com demais escritórios em Stamford, Atlanta, Detroit, Los Angeles, Chicago e Londres.</info>
 </item>
@@ -666,7 +666,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcartoonnetwork%2F</page></regex>
-<thumbnail>https://i.postimg.cc/yx72JncD/cartoon-network.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/cartoon-network.png</thumbnail>
 <fanart></fanart>
 <info>Cartoon Network é um canal norte-americano de televisão por assinatura de rede de propriedade da Warner Bros. Global Kids &amp; Young Adults, que vai ao ar principalmente com programação animada.</info>
 </item>
@@ -677,7 +677,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fgloob%2F</page></regex>
-<thumbnail>https://i.postimg.cc/SKB0PSF4/gloob.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/gloob.png</thumbnail>
 <fanart></fanart>
 <info>Gloob é um canal de televisão por assinatura brasileiro que pertence a Globosat lançado no dia 15 de junho de 2012 direcionado ao público infantil. Seu nome é um anagrama da palavra Globo, invertendo a letra "O" antes do "B". Também transmite sua programação em high definition em versão simulcast.</info>
 </item>
@@ -688,7 +688,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fgloobinho%2F</page></regex>
-<thumbnail>https://i.postimg.cc/tCY5shnr/gloobinho.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/gloobinho.png</thumbnail>
 <fanart></fanart>
 <info>Gloobinho é um canal educacional brasileiro canal de TV paga pertencente a Globosat. Baseado em Gloob, o canal é destinado a crianças de 2 a 5 anos.</info>
 </item>
@@ -699,7 +699,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcartoonito%2F</page></regex>
-<thumbnail>https://i.postimg.cc/jjpbjzMf/cartoonito.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/cartoonito.png</thumbnail>
 <fanart></fanart>
 <info>Cartoonito é um canal de televisão digital, cabo e satélite americana que é de propriedade da subsidiária Warner Bros. Global Kids &amp; Young Adults de propriedade da Warner Bros. Discovery.</info>
 </item>
@@ -710,7 +710,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ftooncast%2F</page></regex>
-<thumbnail>https://i.postimg.cc/8zBcm0qt/tooncast.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/tooncast.png</thumbnail>
 <fanart></fanart>
 <info>Tooncast é um canal infantil de desenhos clássicos fundado pela Warner Bros. Entertainment e pela Turner International que é também a programadora do Cartoon Network, do Boomerang, da TNT, do TNT Séries, do Space, da CNN International, da CNN en Español, do TBS, do TCM, do I.Sat e do Tru TV.</info>
 </item>
@@ -721,7 +721,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoverykids%2F</page></regex>
-<thumbnail>https://i.postimg.cc/mrYqm04p/discovery-kids.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/discovery-kids.png</thumbnail>
 <fanart></fanart>
 <info>Discovery Kids é um canal de televisão por assinatura focado para o público pré-escolar. O canal está presente na América Latina, Austrália, Brasil, Sul da Ásia e um canal conjunto para as regiões do Oriente Médio e Norte da África.</info>
 </item>
@@ -732,7 +732,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdisneychannel%2F</page></regex>
-<thumbnail>https://i.postimg.cc/6pSsHrJP/disney-channel.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/disney-channel.png</thumbnail>
 <fanart></fanart>
 <info>Disney Channel é um canal de televisão norte-americano especializado em programação infanto-juvenil, através das suas séries originais e filmes.</info>
 </item>
@@ -743,7 +743,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fnickelodeon%2F</page></regex>
-<thumbnail>https://i.postimg.cc/ht1GQ8Pk/nick.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/nick.png</thumbnail>
 <fanart></fanart>
 <info>Nickelodeon, geralmente abreviada como "Nick", é uma empresa de entretenimento juvenil. Construiu um negócio global e diversificado, colocando crianças e adolescentes em primeiro lugar em tudo o que faz.</info>
 </item>
@@ -754,7 +754,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fnickjr%2F</page></regex>
-<thumbnail>https://i.postimg.cc/7ZMktBg6/nick-jr.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/nick-jr.png</thumbnail>
 <fanart></fanart>
 <info>Nick Jr. Brasil é um canal de televisão paga com 24 horas dedicado às crianças em fase pré-escolar que promove o desenvolvimento infantil ao usar a filosofia “brincar aprendendo”.</info>
 </item>
@@ -765,7 +765,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fzoomookids%2F</page></regex>
-<thumbnail>https://i.postimg.cc/nh5PkBWz/zoomoo-kids.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/zoomoo-kids.png</thumbnail>
 <fanart></fanart>
 <info>Zoomoo Kids é um canal infantil fundado em 11 de setembro de 2013, pertencente as empresas Blue Ant Media, do Canadá, da Beach House Pictures, de Cingapura, e da Natural History New Zealand, da Nova Zelândia. Sua transmissão foi iniciada na SKY, canal 103. É um canal infantil de televisão por assinatura.</info>
 </item>
@@ -776,7 +776,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoverychannel%2F</page></regex>
-<thumbnail>https://i.postimg.cc/YSg8BpHz/discovery-channel.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/discovery-channel.png</thumbnail>
 <fanart></fanart>
 <info>Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
 </item>
@@ -787,7 +787,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoveryscience%2F</page></regex>
-<thumbnail>https://i.postimg.cc/QN6QPB7r/discovery-science.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/discovery-science.png</thumbnail>
 <fanart></fanart>
 <info>Discovery Science é um canal de televisão de TV por assinatura do grupo Discovery Networks que tem como tarefa reexibir os programas ligados a ciência passados no Discovery Channel, sem intervalos comerciais. Exibe documentários sobre astronomia, tecnologia, história e biologia.</info>
 </item>
@@ -798,7 +798,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoverytheater%2F</page></regex>
-<thumbnail>https://i.postimg.cc/mk67Fq4r/discovery-theater.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/discovery-theater.png</thumbnail>
 <fanart></fanart>
 <info>Discovery Theater é um canal de televisão por assinatura em alta definição norte-americano, pertencente a Discovery Inc. Foi lançado a nível nacional nos Estados Unidos em 1º de junho de 2002 como Discovery HD Theater se tornando o canal precursor a ser inteiramente exibido em HD no país.</info>
 </item>
@@ -809,7 +809,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoveryworld%2F</page></regex>
-<thumbnail>https://i.postimg.cc/zfm36NpN/discovery-world.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/discovery-world.png</thumbnail>
 <fanart></fanart>
 <info>Discovery World é um canal de televisão por assinatura norte-americano. Desde 1991 sobre o nome de TLC o canal é distribuído pela Discovery Inc.</info>
 </item>
@@ -820,7 +820,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoveryturbo%2F</page></regex>
-<thumbnail>https://i.postimg.cc/h4Vs54rD/discovery-turbo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/discovery-turbo.png</thumbnail>
 <fanart></fanart>
 <info>Discovery Turbo é um canal pertencente a Discovery Inc. com a programação dedicada a máquinas como carros, motos, barcos e aviões. Tem a tarefa de re-exibir os programas ligados a essas máquinas passados no Discovery Channel, sem intervalos comerciais.</info>
 </item>
@@ -831,7 +831,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fdiscoveryhomehealth%2F</page></regex>
-<thumbnail>https://i.postimg.cc/2Sjf5K6W/discovery-home-health.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/discovery-home-health.png</thumbnail>
 <fanart></fanart>
 <info>Discovery Home &amp; Health é um canal de TV por assinatura dedicado à beleza, bem estar e a vida em família. O Discovery Home &amp; Health apresenta uma programação diversificada, englobando temas como beleza, moda, saúde, programas cientificos entre outros</info>
 </item>
@@ -842,7 +842,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Finvestigacaodiscovery%2F</page></regex>
-<thumbnail>https://i.postimg.cc/gkJpK7VK/investigacao-discovery.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/investigacao-discovery.png</thumbnail>
 <fanart></fanart>
 <info>ID é a versão brasileira de ID, um canal de televisão por assinatura estadunidense pertencente ao Discovery Inc. Assim como o canal originário, sua programação apresenta programas em estilo documental que abordam crimes reais, incluindo investigações criminais, criminalística, e outros documentários focados em crimes.</info>
 </item>
@@ -853,7 +853,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhgtv%2F</page></regex>
-<thumbnail>https://i.postimg.cc/fysLLfpr/hgtv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/hgtv.png</thumbnail>
 <fanart></fanart>
 <info>HGTV é um rede de televisão por assinatura sediado nos Estados Unidos, que é de propriedade da Warner Bros. Discovery. A rede basicamente transmite programas como realitys relacionados à melhoria de casas e imóveis. Em fevereiro de 2015, aproximadamente 95.628.000 domicílios americanos recebem a HGTV.</info>
 </item>
@@ -864,7 +864,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fnationalgeographic%2F</page></regex>
-<thumbnail>https://i.postimg.cc/L47qLjfh/national-geographic-channel.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/national-geographic-channel.png</thumbnail>
 <fanart></fanart>
 <info>National Geographic é um canal de televisão por assinatura brasileiro, de propriedade da Walt Disney Television, uma divisão da The Walt Disney Company. O canal é destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história e meio ambiente.</info>
 </item>
@@ -875,7 +875,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fanimalplanet%2F</page></regex>
-<thumbnail>https://i.postimg.cc/Hk38JRt1/animal-planet.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/animal-planet.png</thumbnail>
 <fanart></fanart>
 <info>Animal Planet é um canal de televisão por assinatura com sede nos Estados Unidos da América e transmitido também para a América latina. Estabelecido pela primeira vez em 1 de outubro de 1996, a rede é dedicada principalmente a séries e documentários sobre animais selvagens e animais domésticos.</info>
 </item>
@@ -886,7 +886,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fhistory%2F</page></regex>
-<thumbnail>https://i.postimg.cc/d3MhPYJr/history-channel.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/history-channel.png</thumbnail>
 <fanart></fanart>
 <info>History, antes chamado de The History Channel, é um canal de televisão por assinatura americano cuja programação é focada essencialmente em conteúdos de teor histórico e científico. Apesar disso, o canal também aborda temas atuais de relevância. O History está disponível na maior parte das ofertas televisivas pagas.</info>
 </item>
@@ -897,7 +897,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fh2%2F</page></regex>
-<thumbnail>https://i.postimg.cc/rm584tLR/history-2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/history-2.png</thumbnail>
 <fanart></fanart>
 <info>History 2, anteriormente chamado de H2, é um canal de televisão por assinatura que exibe documentários, pertencente a A&amp;E Networks, canal irmão do History. Distribuído no Brasil pela HBO, desde 1 de outubro de 2014 substituiu o Bio. no país.</info>
 </item>
@@ -908,7 +908,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fsportv%2F</page></regex>
-<thumbnail>https://i.postimg.cc/xTps964s/sportv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/sportv.png</thumbnail>
 <fanart></fanart>
 <info>SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 19 de outubro de 1991 sob o nome de Top Sport, alterado para o atual em 1994. Em seu gênero, no Brasil, o SporTV foi pioneiro e também um dos primeiros canais da Globosat.</info>
 </item>
@@ -919,7 +919,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fsportv2%2F</page></regex>
-<thumbnail>https://i.postimg.cc/fbm5jDTF/sportv-2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/sportv-2.png</thumbnail>
 <fanart></fanart>
 <info>SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 19 de outubro de 1991 sob o nome de Top Sport, alterado para o atual em 1994.[1] Em seu gênero, no Brasil, o SporTV foi pioneiro e também um dos primeiros canais da Globosat. Nos meses das Olimpíadas de 2012, a rede pode contar com mais dois canais, o SporTV 2 e o SporTV 3, que foram extinto logo após o final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
@@ -930,7 +930,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fsportv3%2F</page></regex>
-<thumbnail>https://i.postimg.cc/HWBztSdp/sportv-3.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/sportv-3.png</thumbnail>
 <fanart></fanart>
 <info>SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 19 de outubro de 1991 sob o nome de Top Sport, alterado para o atual em 1994.[1] Em seu gênero, no Brasil, o SporTV foi pioneiro e também um dos primeiros canais da Globosat. Nos meses das Olimpíadas de 2012, a rede pode contar com mais dois canais, o SporTV 2 e o SporTV 3, que foram extinto logo após o final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
@@ -941,7 +941,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fespn%2F</page></regex>
-<thumbnail>https://i.postimg.cc/XvRm4spM/espn.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/espn.png</thumbnail>
 <fanart></fanart>
 <info>ESPN, sigla para Entertainment and Sports Programming Network, é uma rede de TV por assinatura dos Estados Unidos dedicada à transmissão e produção de programas esportivos 24 horas por dia.</info>
 </item>
@@ -952,7 +952,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fespn2%2F</page></regex>
-<thumbnail>https://i.postimg.cc/7ZcQnK1C/espn-2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/espn-2.png</thumbnail>
 <fanart></fanart>
 <info>ESPN 2 é uma rede de televisão por cabo americana de esportes de propriedade da ESPN. O canal estreou em 1 de outubro de 1993.</info>
 </item>
@@ -963,7 +963,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fespnextra%2F</page></regex>
-<thumbnail>https://i.postimg.cc/br3mDgNw/espn-extra.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/espn-extra.png</thumbnail>
 <fanart></fanart>
 <info>ESPN Extra é um canal de televisão por assinatura esportiva lançado em 24 de março de 2016 na operadora de TV a cabo Cabo Telecom do estado do Rio Grande do Norte.</info>
 </item>
@@ -974,7 +974,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ffoxsports2%2F</page></regex>
-<thumbnail>https://i.postimg.cc/sf7yQhr9/fox-sports-2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/fox-sports-2.png</thumbnail>
 <fanart></fanart>
 <info>FOX Sports Brasil é um canal de televisão por assinatura brasileiro voltado para transmissão de eventos esportivos 24 horas por dia.</info>
 </item>
@@ -985,7 +985,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fbandsports%2F</page></regex>
-<thumbnail>https://i.postimg.cc/XYZCdL7D/band-sports.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/band-sports.png</thumbnail>
 <fanart></fanart>
 <info>Band Sports é um canal de televisão brasileiro de esportes via televisão por assinatura do Grupo Bandeirantes de Comunicação, foi lançado em 13 de maio de 2002.</info>
 </item>
@@ -996,7 +996,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcombate%2F</page></regex>
-<thumbnail>https://i.postimg.cc/FFMRwv9G/combate.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/combate.png</thumbnail>
 <fanart></fanart>
 <info>Combate é uma marca brasileira de conteúdo especializada em esportes de luta pertencente à Globosat e distribuida via operadoras de tv por assinatura em sistema de pay-per-view.\nO canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mundo de Jiu-Jitsu e Kickboxing.</info>
 </item>
@@ -1007,7 +1007,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiereclubes%2F</page></regex>
-<thumbnail>https://i.postimg.cc/LX4fYpqj/premiere-clubes.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-clubes.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -1018,7 +1018,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiere2%2F</page></regex>
-<thumbnail>https://i.postimg.cc/QxK7WSMY/premiere-2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-2.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -1029,7 +1029,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiere3%2F</page></regex>
-<thumbnail>https://i.postimg.cc/3xgDtRmg/premiere-3.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-3.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -1040,7 +1040,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiere4%2F</page></regex>
-<thumbnail>https://i.postimg.cc/gkb89Qdy/premiere-4.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-4.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -1051,7 +1051,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiere5%2F</page></regex>
-<thumbnail>https://i.postimg.cc/rpstCLCT/premiere-5.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-5.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -1062,7 +1062,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiere6%2F</page></regex>
-<thumbnail>https://i.postimg.cc/8cNp4RQv/premiere-6.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-6.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -1073,7 +1073,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiere7%2F</page></regex>
-<thumbnail>https://i.postimg.cc/7P5rvtXL/premiere-7.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-7.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -1084,7 +1084,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fglobonews%2F</page></regex>
-<thumbnail>https://i.postimg.cc/GmdqJ95y/globo-news.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/globo-news.png</thumbnail>
 <fanart></fanart>
 <info>Globo News é um canal de televisão por assinatura brasileiro sediado no Rio de Janeiro, capital do estado brasileiro homônimo e que transmite uma programação jornalística durante as 24 horas do dia. O canal foi inaugurado em 15 de outubro de 1996 pela programadora Globosat.</info>
 </item>
@@ -1095,7 +1095,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Frecordnews%2F</page></regex>
-<thumbnail>https://i.postimg.cc/ZYNcGrkN/record-news.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/record-news.png</thumbnail>
 <fanart></fanart>
 <info>Record News é um canal de televisão comercial aberto brasileiro, com a programação dedicada principalmente ao telejornalismo, pertencente ao Grupo Record.</info>
 </item>
@@ -1106,7 +1106,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fbandnews%2F</page></regex>
-<thumbnail>https://i.postimg.cc/sD9JXsgD/band-news.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/band-news.png</thumbnail>
 <fanart></fanart>
 <info>Band News TV é um canal de televisão brasileiro de notícias 24 horas sediado em São Paulo, capital do estado brasileiro homônimo, e que foi inaugurado no dia 19 de março de 2001 pelo Grupo Bandeirantes de Comunicação. Sendo o segundo canal de notícias no Brasil. É o terceiro canal de notícias mais visto no Brasil.</info>
 </item>
@@ -1117,14 +1117,10 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcnnbrasil%2F</page></regex>
-<thumbnail>https://i.postimg.cc/hvmpMmn9/cnn-brasil.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/cnn-brasil.png</thumbnail>
 <fanart></fanart>
 <info>CNN Brasil é um canal de notícias através de televisão por assinatura brasileiro de propriedade da Warner Media, uma subsidiária da AT&amp;T. Licenciada pela rede de notícias homônima estadunidense, foi inaugurada em 2020 pelo proprietário da mídia e da MRV Engenharia Rubens Menin, e pelo ex-diretor de jornalismo da RecordTV Douglas Tavolaro, como um canal de notícias 24 horas.[1] Sua sede fica na Avenida Paulista, em São Paulo,[2] com filiais no Rio de Janeiro e em Brasília, além de filiais internacionais, com cerca de 400 jornalistas.</info>
 </item>
-
-
-
-
 
 
 
