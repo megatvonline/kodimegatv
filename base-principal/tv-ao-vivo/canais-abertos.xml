@@ -79,3 +79,11 @@
 <fanart></fanart>
 <info></info>
 </item>
+
+<item>
+<title>[B][COLOR white]REDE UTV BRASIL[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]REDE UTV BRASIL[/COLOR][/B]&amp;url=https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w838479703.m3u8</link>
+<thumbnail>https://i.postimg.cc/SRPw5Ygm/rede-utv-brasil.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
