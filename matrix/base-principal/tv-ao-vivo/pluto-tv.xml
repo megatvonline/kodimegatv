@@ -1,3 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/o-reino-infantil.png",[B][COLOR white]O REINO INFANTIL[/COLOR][/B]"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/o-reino-infantil.png",[B][COLOR white]O REINO INFANTIL[/COLOR][/B]" group-title="INFANTIL",
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
