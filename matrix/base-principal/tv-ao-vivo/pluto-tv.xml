@@ -1,0 +1,301 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/guia-de-canais.png",[B][COLOR white]Guia de Canais[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848732-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=051f3c1e-eeef-459d-b6b9-8b3a25af4b87&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]|||[/COLOR] [COLOR white]Anime & Geek[/COLOR] [COLOR blue]|||[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-anime-acao.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Anime Ação[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cf69dd7a-bd93-11ec-9e8c-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-anime.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Anime[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-geek-e-tech.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Geek e Tech[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=10339c48-df0a-11ec-8dd7-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/death-note.png",[B][COLOR white]Death Note[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21c55d22-ede0-11ec-a32d-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/naruto.png",[B][COLOR white]Naruto[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/tokusato.png",[B][COLOR white]Tokusato[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]|||[/COLOR] [COLOR white]Comédia[/COLOR] [COLOR blue]|||[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-comedia.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Comédia[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=4696a5d1-acb8-11eb-b9c5-c167fdadbada&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=17243e81-f55f-4fad-8842-28d8cc52744c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-portal-dos-fundos.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Portal dos Fundos[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/comedy-central-pluto-tv.png",[B][COLOR white]Comedy Central[/COLOR][/B] - [B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e38f01e2-bd05-11ec-9cb9-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/comedy-central-south-park.png",[B][COLOR white]Comedy Central[/COLOR][/B] - [B][COLOR white]South Park[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ce6da250-de55-11eb-891d-f5c10c1a4818&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b969c849-ee2f-4f54-9563-53225c56a2be&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/schitts-creek.png",[B][COLOR white]Schitt's Creek[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=995535ff-bd13-11ec-95da-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/failarmy.png",[B][COLOR white]FailArmy[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/the-pet-collective.png",[B][COLOR white]The Pet Collective[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821631-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25075146-4d3f-4138-a177-5d8a41b330d4&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]|||[/COLOR] [COLOR white]Curiosidades[/COLOR] [COLOR blue]|||[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-documentarios.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Documentários[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dad49cd6-bd8c-11ec-92c0-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-investigacao.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Investigação[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-misterios.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Mistérios[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=469630a0-acb8-11eb-b9c5-c167fdadbada&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e6159be-c98a-4ef4-89d8-635378b7761d&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-minha-obsessao-favorita.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Minha Obsessão Favorita[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86cbb43c-bd84-11ec-a8f5-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-natureza.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Natureza[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-paisagens-por-stingray.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Paisagens por Stingray[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604a8dedbca75b0007b1c753livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=464e454b-bd87-11ec-b2d2-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-turbo.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Turbo[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6014761dfb91870008ea6463/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8639fc4d-bd89-11ec-9b84-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-vida-real.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Vida Real[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/mestre-do-ilusionismo.png",[B][COLOR white]Mestre do Ilusionismo[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254ac8f30665a00077ec182/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=09200ba0-09d1-11ed-9847-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/o-encantador-de-caes.png",[B][COLOR white]O Encantador de Cães[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f019304-bd89-11ec-8f0e-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pronto-socorro-historias-de-emergencia.png",[B][COLOR white]Pronto-Socorro[/COLOR][/B] : [B][COLOR white]Histórias de Emergência[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b031e929-bd82-11ec-8173-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]|||[/COLOR] [COLOR white]Entretenimento[/COLOR] [COLOR blue]|||[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-canal-uol.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Canal UOL[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6238c63deec07b000723dd77/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a2660c1-09d4-11ed-9343-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-novelas.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Novelas[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e6152d3-df06-11ec-9f97-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-orgulho-lgbtqia-mais.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Orgulho LGBTQIA[/COLOR] [COLOR gold]+[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/606caf1bcdedd4000745fb1f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=91cf9b84-ede6-11ec-bfcd-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-retro.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Retrô[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-series.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Séries[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d54d8e7b-d3f3-44cd-ac61-95ff7aa498d3&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/bet-pluto-tv.png",[B][COLOR white]BET[/COLOR][/B] - [B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/mtv-pluto-tv.png",[B][COLOR white]MTV[/COLOR][/B] - [B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3887c04b-bb4b-49b8-8511-47613f5cadbb&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/jovem-pan-pluto-tv.png",[B][COLOR white]Jovem Pan[/COLOR][/B] - [B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4f34b389-bd29-11ec-bbbf-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/mtv-are-you-the-one.png",[B][COLOR white]MTV Are You The One?[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/mtv-castfish.png",[B][COLOR white]MTV Castfish[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/626c2a3502d84a0007cec817/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c22ea6da-09cf-11ed-a5d2-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/mtv-com-o-ex.png",[B][COLOR white]MTV com o Ex[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61a528267e1b8b0007357920/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=35b70fdf-bd30-11ec-b2d2-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/mtv-jovens-e-maes.png",[B][COLOR white]MTV Jovens e Mães[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9ce85942-09ce-11ed-8b7b-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/mtv-shore.png",[B][COLOR white]MTV Shore[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=571dc7f0-ede3-11ec-bbc6-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/bet-being-mary-jane.png",[B][COLOR white]BET Being Mary Jane[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=4c5df1e0-da0c-11eb-a934-cdfc57172d07&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b5341604-c959-42fd-b85d-6fcc42b36b8c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/diff-rent-strokes-arnold.png",[B][COLOR white]Diff’rent Strokes Arnold[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=62bac9fa-bd25-11ec-9e8c-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/la-otra-cara-del-alma.png",[B][COLOR white]La Otra Cara Del Alma[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=102c1f92-bd27-11ec-8790-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/icarly.png",[B][COLOR white]Icarly[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0193f613-bd37-11ec-a812-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/jeannie-e-um-genio.png",[B][COLOR white]Jeannie é um Gênio[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65ab6a80-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ad9304b-c000-489a-bfe8-f5446689b1a3&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/kenan-e-kel.png",[B][COLOR white]Kenan & Kel[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5081db05-bd35-11ec-bc87-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/masterchef.png",[B][COLOR white]MasterChef[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/nick-teen.png",[B][COLOR white]Nick Teen[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8aa6b581-bd38-11ec-a9e4-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/nosey-escandalos.png",[B][COLOR white]Nosey Escândalos[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d1fe1-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6293bb5c-4b9a-406f-b682-0d2353d080be&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/people-are-awesome.png",[B][COLOR white]People Are Awesome[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821630-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3401ffe-5054-4e86-94f4-9056a358ddad&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/record-tv-2.png",[B][COLOR white]Record TV[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61f185ae10150a0007049e0c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=50c159ca-09d2-11ed-8b8e-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/the-night-shift-plantao-noturno.png",[B][COLOR white]The Night Shift Plantão Noturno[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f0118c01-ede4-11ec-bf0b-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/younger.png",[B][COLOR white]Younger[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e3b35f24-bd32-11ec-9a46-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]|||[/COLOR] [COLOR white]Estilo de Vida[/COLOR] [COLOR blue]|||[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-estilo-de-vida.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Estilo de Vida[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f8841a4865da0007421177/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=153dbbbc-bd18-11ec-9967-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-fashionstream.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Fashionstream[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=417ce30c-bd20-11ec-8ee4-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/tastemade-brasil.png",[B][COLOR white]Tastemade Brasil[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=006ef095-bd1b-11ec-b7ab-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]|||[/COLOR] [COLOR white]Filmes[/COLOR] [COLOR blue]|||[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-adrenalina-freezone.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Adrenalina Freezone[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0105acac-df04-11ec-bd9f-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-cine-acao.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Cine Ação[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-cine-classicos.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Cine Clássicos[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=4695e280-acb8-11eb-b9c5-c167fdadbada&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e935fe-ebd6-46aa-b461-c274c57e2791&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-cine-comedia.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Cine Comédia[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07b16472-d071-4d2e-ad98-ab98754a4428&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-cine-drama.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Cine Drama[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-cine-familia.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Cine Família[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-cine-romance.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Cine Romance[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9925deb0-c973-11eb-90ea-d1e329a9bf1f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=905fdd38-0800-4366-bb4d-061b4b329fac&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-cine-sucessos.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Cine Sucessos[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-cine-suspense.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Cine Suspense[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-cine-terror.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Cine Terror[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ff7f4f3-233d-4e09-bbf7-e36a061d79f7&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-ficcao-cientifica.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Filmes Ficção Científica[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5a446b2c-bd06-11ec-a30d-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-filmes-nacionais.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Filmes Nacionais[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5762a61-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8784fb7f-5209-406d-b66a-2fe035ee1a18&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-namorados.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Namorados[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0892b56e-ede2-11ec-a79d-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/paramount-mais-apresenta.png",[B][COLOR white]Paramount[/COLOR] [COLOR gold]+[/COLOR] [COLOR white]Apresenta[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f59afab-bd07-11ec-a175-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]|||[/COLOR] [COLOR white]Infantil[/COLOR] [COLOR blue]|||[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-jr.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Jr.[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-kids.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Kids[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a101-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46e9fe4e-4908-4a98-8fa8-41e5460e3ce5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-turma-da-monica.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Turma da Mônica[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/a-vida-moderna-de-rocko.png",[B][COLOR white]A Vida Moderna de Rocko[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/as-pistas-de-blue.png",[B][COLOR white]As Pistas de Blue[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848730-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9f2c6ce-d387-42e3-a5c5-c919c5d33252&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/as-aventuras-de-jackie-chan.png",[B][COLOR white]As Aventuras de Jackie Chan[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05e8a20b-bda2-11ec-8091-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/bob-esponja.png",[B][COLOR white]Bob Esponja[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5b7c2430-edde-11ec-8e0f-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/nick-classico.png",[B][COLOR white]Nick Clássico[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/nick-jr-club.png",[B][COLOR white]Nick Jr. Club[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/rugrats.png",[B][COLOR white]Rugrats[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5e5e029c-bda2-11ec-9b59-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/o-reino-infantil.png",[B][COLOR white]O Reino Infantil[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/babyfirst.png",[B][COLOR white]Babyfirst[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]|||[/COLOR] [COLOR white]Música[/COLOR] [COLOR blue]|||[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-karaoke-por-stingray.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Karaokê por Stingray[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=81f16b8c-bd9e-11ec-87d2-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-shows-por-stingray.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Shows por Stingray[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3c62018b-bd9e-11ec-8e7b-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/mtv-biggest-pop.png",[B][COLOR white]MTV Biggest POP[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2fflivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cba4a048-bd9b-11ec-8097-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/mtv-miaw-pluto-tv.png",[B][COLOR white]MTV Miaw[/COLOR][/B] - [B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62b219eed88ef00007403c2clivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32f4311c-09cd-11ed-b788-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/mtv-spankin-new.png",[B][COLOR white]MTV Spankin' New[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047ff2e5e61cf000784e4dalivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3d70a300-bd9c-11ec-b9f9-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]|||[/COLOR] [COLOR white]Esportes[/COLOR] [COLOR blue]|||[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/fuel-tv.png",[B][COLOR white]Fuel TV[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6144d088516ea8000739076alivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e58ce3d-bd90-11ec-abec-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="",[B][COLOR blue]|||[/COLOR] [COLOR white]Notícias[/COLOR] [COLOR blue]|||[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/pluto-tv-record-news.png",[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B] - [B][COLOR white]Record News[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fbdbea8f-bd95-11ec-abb7-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/cbs-news.png",[B][COLOR white]CBS News[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62310f66d5888f0007534342livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d8a4eaa-df08-11ec-afeb-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/euronews-portugues.png",[B][COLOR white]Euronews Português[/COLOR][/B]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=11ccb45b-5f8b-443c-aa5b-b0fa243bdbc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=91c63e41-bd96-11ec-9e8c-0242ac110003&userId=&serverSideAds=true
+
+
+
