@@ -6,7 +6,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fsportv%2F</page></regex>
-<thumbnail>https://i.postimg.cc/xTps964s/sportv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/sportv.png</thumbnail>
 <fanart></fanart>
 <info>SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 19 de outubro de 1991 sob o nome de Top Sport, alterado para o atual em 1994. Em seu gênero, no Brasil, o SporTV foi pioneiro e também um dos primeiros canais da Globosat.</info>
 </item>
@@ -17,7 +17,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fsportv2%2F</page></regex>
-<thumbnail>https://i.postimg.cc/fbm5jDTF/sportv-2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/sportv-2.png</thumbnail>
 <fanart></fanart>
 <info>SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 19 de outubro de 1991 sob o nome de Top Sport, alterado para o atual em 1994.[1] Em seu gênero, no Brasil, o SporTV foi pioneiro e também um dos primeiros canais da Globosat. Nos meses das Olimpíadas de 2012, a rede pode contar com mais dois canais, o SporTV 2 e o SporTV 3, que foram extinto logo após o final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
@@ -28,7 +28,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fsportv3%2F</page></regex>
-<thumbnail>https://i.postimg.cc/HWBztSdp/sportv-3.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/sportv-3.png</thumbnail>
 <fanart></fanart>
 <info>SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 19 de outubro de 1991 sob o nome de Top Sport, alterado para o atual em 1994.[1] Em seu gênero, no Brasil, o SporTV foi pioneiro e também um dos primeiros canais da Globosat. Nos meses das Olimpíadas de 2012, a rede pode contar com mais dois canais, o SporTV 2 e o SporTV 3, que foram extinto logo após o final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
@@ -39,7 +39,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fespn%2F</page></regex>
-<thumbnail>https://i.postimg.cc/XvRm4spM/espn.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/espn.png</thumbnail>
 <fanart></fanart>
 <info>ESPN, sigla para Entertainment and Sports Programming Network, é uma rede de TV por assinatura dos Estados Unidos dedicada à transmissão e produção de programas esportivos 24 horas por dia.</info>
 </item>
@@ -50,7 +50,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fespn2%2F</page></regex>
-<thumbnail>https://i.postimg.cc/7ZcQnK1C/espn-2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/espn-2.png</thumbnail>
 <fanart></fanart>
 <info>ESPN 2 é uma rede de televisão por cabo americana de esportes de propriedade da ESPN. O canal estreou em 1 de outubro de 1993.</info>
 </item>
@@ -61,7 +61,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fespnextra%2F</page></regex>
-<thumbnail>https://i.postimg.cc/br3mDgNw/espn-extra.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/espn-extra.png</thumbnail>
 <fanart></fanart>
 <info>ESPN Extra é um canal de televisão por assinatura esportiva lançado em 24 de março de 2016 na operadora de TV a cabo Cabo Telecom do estado do Rio Grande do Norte.</info>
 </item>
@@ -72,7 +72,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Ffoxsports2%2F</page></regex>
-<thumbnail>https://i.postimg.cc/sf7yQhr9/fox-sports-2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/fox-sports-2.png</thumbnail>
 <fanart></fanart>
 <info>FOX Sports Brasil é um canal de televisão por assinatura brasileiro voltado para transmissão de eventos esportivos 24 horas por dia.</info>
 </item>
@@ -83,7 +83,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fbandsports%2F</page></regex>
-<thumbnail>https://i.postimg.cc/XYZCdL7D/band-sports.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/band-sports.png</thumbnail>
 <fanart></fanart>
 <info>Band Sports é um canal de televisão brasileiro de esportes via televisão por assinatura do Grupo Bandeirantes de Comunicação, foi lançado em 13 de maio de 2002.</info>
 </item>
@@ -94,7 +94,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fcombate%2F</page></regex>
-<thumbnail>https://i.postimg.cc/FFMRwv9G/combate.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/combate.png</thumbnail>
 <fanart></fanart>
 <info>Combate é uma marca brasileira de conteúdo especializada em esportes de luta pertencente à Globosat e distribuida via operadoras de tv por assinatura em sistema de pay-per-view.\nO canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mundo de Jiu-Jitsu e Kickboxing.</info>
 </item>
@@ -105,7 +105,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiereclubes%2F</page></regex>
-<thumbnail>https://i.postimg.cc/LX4fYpqj/premiere-clubes.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-clubes.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -116,7 +116,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiere2%2F</page></regex>
-<thumbnail>https://i.postimg.cc/QxK7WSMY/premiere-2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-2.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -127,7 +127,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiere3%2F</page></regex>
-<thumbnail>https://i.postimg.cc/3xgDtRmg/premiere-3.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-3.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -138,7 +138,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiere4%2F</page></regex>
-<thumbnail>https://i.postimg.cc/gkb89Qdy/premiere-4.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-4.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -149,7 +149,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiere5%2F</page></regex>
-<thumbnail>https://i.postimg.cc/rpstCLCT/premiere-5.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-5.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -160,7 +160,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiere6%2F</page></regex>
-<thumbnail>https://i.postimg.cc/8cNp4RQv/premiere-6.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-6.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
@@ -171,7 +171,7 @@
 <regex><name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fplayer.aovivotv.xyz%2Fchannels%2Fpremiere7%2F</page></regex>
-<thumbnail>https://i.postimg.cc/7P5rvtXL/premiere-7.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/premiere-7.png</thumbnail>
 <fanart></fanart>
 <info>Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
 </item>
