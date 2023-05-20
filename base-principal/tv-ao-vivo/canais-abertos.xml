@@ -32,5 +32,13 @@
 <info></info>
 </item>
 
+<item>
+<title>[B][COLOR white]IMPERIAL TV[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]IMPERIAL TV[/COLOR][/B]&amp;url=https://node2.ecast.site:3428/live/imperiallive.m3u8</link>
+<thumbnail>https://i.postimg.cc/136m4HnZ/imperial-tv.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
 
 
