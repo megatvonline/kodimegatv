@@ -1,4 +1,4 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/o-reino-infantil.png",[B][COLOR white]INFANTIL[/COLOR][/B]" group-title="[B][COLOR white]O REINO INFANTIL[/COLOR][/B]",[B][COLOR white]O REINO INFANTIL[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megatvonline/kodimegatv/master/logos/o-reino-infantil.png",[B][COLOR white]O REINO INFANTIL[/COLOR][/B]" group-title="[B][COLOR white]INFANTIL[/COLOR][/B]",[B][COLOR white]O REINO INFANTIL[/COLOR][/B]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
