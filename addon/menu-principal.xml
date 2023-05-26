@@ -19,7 +19,7 @@
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
-<info>Mega TV</info>
+<info></info>
 </channel>  
   
 <channel>
@@ -27,7 +27,7 @@
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
-<info>Mega TV</info>
+<info></info>
 </channel>
           
 <channel>
@@ -35,7 +35,7 @@
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
-<info>Mega TV</info>
+<info></info>
 </channel>
     
 <channel>
@@ -43,7 +43,7 @@
 <thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/sound.png</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
-<info>Mega TV</info>
+<info></info>
 </channel>        
     
 </channels>
