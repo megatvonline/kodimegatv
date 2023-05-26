@@ -19,15 +19,15 @@
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
-<info>Mega TV</info>
+<info></info>
 </channel>  
   
 <channel>
 <name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/matrix/base-principal/menu-filmes.xml</externallink>
+<externallink>https://gitlab.com/megatvonline/kodimegatv/raw/master/matrix/base-principal/menu-filmes.xml</externallink>
 <fanart></fanart>
-<info>Mega TV</info>
+<info></info>
 </channel>
           
 <channel>
@@ -35,7 +35,7 @@
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
-<info>Mega TV</info>
+<info></info>
 </channel>
     
 <channel>
@@ -43,7 +43,7 @@
 <thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/sound.png</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
-<info>Mega TV</info>
+<info></info>
 </channel>        
     
 </channels>
