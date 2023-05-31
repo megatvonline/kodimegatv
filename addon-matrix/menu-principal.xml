@@ -29,6 +29,14 @@
 <fanart></fanart>
 <info></info>
 </channel>
+ 
+<channel>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]DESENHOS[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://gitlab.com/megatvonline/kodimegatv/raw/master/matrix/base-principal/menu-desenhos.xml</externallink>
+<fanart></fanart>
+<info></info>
+</channel> 
           
 <channel>
 <name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]RÁDIOS FM[/COLOR][/B]</name>
