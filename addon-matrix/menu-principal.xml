@@ -1,25 +1,32 @@
-
-
-<?xml version="1.0" encoding="utf-8"?>
-
-<layouttype>thumbnail</layouttype>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
+	<!-- opicional -->
+    <channels_info> <!-- this is opitonal -->
+      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>News</genre>
+      <description>this is the descripton string</description>
+      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+      <date>04.01.2013</date>
+      <credits>divingmule, Johnny Cache</credits>
+    </channels_info>
+	<!-- opicional -->
+    
+    <channel>
+        <name>ANIMES</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>CANAIS FARRUK</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
 
-<channel>
-<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]TV AO VIVO[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/megatvonline/kodimegatv/master/categoria/todos-canais.png</thumbnail>
-<externallink>https://gitlab.com/megatvonline/kodimegatv/-/raw/master/matrix/base-principal/menu-tv-ao-vivo-17.xml</externallink>
-<fanart></fanart>
-<info>[B][COLOR white]OS MELHORES CANAIS[/COLOR][/B] [B][COLOR gold]AO VIVO[/COLOR][/B] [B][COLOR white]EM UM SÓ LUGAR[/COLOR][/B]</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]FILMES[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>[B][COLOR white]OS MELHORES FILMES[/COLOR][/B] [B][COLOR white]EM UM SÓ LUGAR[/COLOR][/B]</info>
-</channel>        
-        
-</channels>
+</channels>	
