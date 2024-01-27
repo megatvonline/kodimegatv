@@ -22,11 +22,11 @@
     </channel>
 	
 	<channel>
-        <name>CANAIS FARRUK</name>
+        <name>CANAIS FARRUKcccc</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Canais do farruk</info>
-		<externallink>https://bit.ly/3xZ2T9O</externallink>
+		<externallink>https://gitlab.com/megatvonline/kodimegatv/-/raw/master/matrix/base-principal/menu-tv-ao-vivo-17.xml</externallink>
     </channel>
 
 </channels>	
